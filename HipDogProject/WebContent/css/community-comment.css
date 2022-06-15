@@ -1,0 +1,247 @@
+/* screen - community-comment */
+
+.community-comment {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 640px;
+  min-width: 360px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.community-comment .component-102-C61RwL {
+  background-color: transparent;
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 360px;
+}
+
+.community-comment .rectangle-21-zVJ4aK {
+  background-color: var(--viking);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-comment .icon-close-zVJ4aK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 56.45%;
+  left: 3.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 22.58%;
+  width: 11.11%;
+}
+
+.community-comment .component-101-C61RwL {
+  background-color: transparent;
+  height: 273px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 62px;
+  width: 360px;
+}
+
+.community-comment .rectangle-48-yxocPZ {
+  background-color: var(--white);
+  height: 34.80%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0.37%;
+  width: 100.56%;
+}
+
+.community-comment .gyuri-kim-5-min-ago-yxocPZ {
+  background-color: transparent;
+  height: 15.02%;
+  left: 15.00%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16.48%;
+  width: 13.61%;
+}
+
+.community-comment .span0-nFMThg {
+}
+
+.community-comment .span1-nFMThg {
+}
+
+.community-comment .account_circle_black_24dp-1-yxocPZ {
+  background-color: transparent;
+  height: 13.92%;
+  left: 3.06%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 15.38%;
+  width: 11.11%;
+}
+
+.community-comment .component-11-yxocPZ {
+  background-color: transparent;
+  height: 8.42%;
+  left: 3.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4.76%;
+  width: 25.28%;
+}
+
+.community-comment .rectangle-31-eJFOeK {
+  background-color: var(--mercury);
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.community-comment .hospital-eJFOeK {
+  background-color: transparent;
+  height: 95.65%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.community-comment .rectangle-49-yxocPZ {
+  background-color: var(--white);
+  height: 48.72%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 34.43%;
+  width: 100.56%;
+}
+
+.community-comment .where-is-a-24-hour-hospital-nearby-yxocPZ {
+  background-color: transparent;
+  height: 10.26%;
+  left: 18.33%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 53.85%;
+  width: 63.33%;
+}
+
+.community-comment .rectangle-50-yxocPZ {
+  background-color: var(--white);
+  height: 17.58%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 82.78%;
+  width: 100.56%;
+}
+
+.community-comment .chat_bubble_outline_black_24dp-5-yxocPZ {
+  background-color: transparent;
+  height: 12.82%;
+  left: 2.22%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 84.98%;
+  width: 8.89%;
+}
+
+.community-comment .component-103-C61RwL {
+  background-color: transparent;
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 578px;
+  width: 360px;
+}
+
+.community-comment .component-13-7NJu4R {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-comment .rectangle-51-j8ehwY {
+  background-color: var(--viking);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-comment .image_black_24dp-2-j8ehwY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64.52%;
+  left: 2.50%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17.74%;
+  width: 12.22%;
+}
+
+.community-comment .rectangle-52-j8ehwY {
+  background-color: var(--white);
+  border-radius: 20px;
+  cursor: pointer;
+  height: 46.77%;
+  left: 20.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.42%;
+  width: 67.22%;
+}
+
+.community-comment .arrow_circle_up_black_24dp-1-j8ehwY {
+  background-color: transparent;
+  height: 38.71%;
+  left: 90.83%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 30.65%;
+  width: 6.67%;
+}
+
+.community-comment .type-here-7NJu4R {
+  background-color: transparent;
+  height: 45.16%;
+  left: 24.72%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 27.42%;
+  width: 18.61%;
+}

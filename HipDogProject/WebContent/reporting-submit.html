@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<style>
+	input[type="checkbox"] {
+	    width: 20px;
+	    height: 20px;
+	    border: 3px solid black;
+	    appearance: none;
+	    cursor: pointer;
+	    transition: background 0.2s;
+	  }
+
+	input[type="checkbox"]::after {
+	  border: solid #fff;
+	  border-width: 0 2px 2px 0;
+	  content: '';
+	  display: none;
+	  height: 40%;
+	  left: 40%;
+	  position: relative;
+	  top: 20%;
+	  transform: rotate(45deg);
+	  width: 15%;
+	}
+	input[type="checkbox"]:checked {
+	  background: #56ccf2;
+	}
+	input[type="checkbox"]:checked::after {
+	  display: block;
+	}
+</style>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/reporting-submit.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="reporting-submit" />
+    <div class="container-center-horizontal">
+      <div class="reporting-submit screen">
+        <div class="overlap-group7">
+          <div class="rectangle-30 border-1px-mercury"></div>
+          <div class="rectangle-21"></div>
+          <img class="arrow_back_black_24dp-1" src="img/arrow-back-black-24dp-1@2x.png" />
+          <div class="hip-dog baloo-regular-normal-turbo-25px">HipDog</div>
+          <img class="ellipse-21" src="img/ellipse-21@2x.png" />
+          <div class="brain baloo-regular-normal-black-15px">Brain</div>
+          <div class="reporting baloo-regular-normal-black-30px">Reporting</div>
+          <img class="icon-caution" src="img/report-problem-black-24dp-2@2x.png" />
+        </div>
+        
+        <div class="flex-row">
+          <p><label><input class="check1" type="checkbox" name="violent" value="violent" checked> 
+	          <div class="violent-language-or-behavior baloo-regular-normal-black-20px">Violent language or behavior</div>
+          </label></p>
+        </div>
+
+        <div class="flex-row-1">
+        	<p><label><input type="checkbox" name="fake" value="fake">
+	          <div class="fake-profile baloo-regular-normal-black-20px">Fake profile</div>
+        	</label></p>
+        </div>
+
+        <div class="overlap-group10">
+          <img class="vector-2" src="https://anima-uploads.s3.amazonaws.com/projects/6287b7f77aeaf8f9c977a75a/releases/6287bb07c03e168a40af5279/img/vector@2x.png" />
+          <div class="overlap-group6">
+            <div class="spam-advertising baloo-regular-normal-black-20px">Spam/ Advertising</div>
+            
+            <p><label><input type="checkbox" name="fake" value="fake" class="vector-3" checked>
+            </label></p>
+            <!-- 
+            <img class="vector-3" src="img/vector@2x.png" />
+            <div class="bad-manners baloo-regular-normal-black-20px">Bad manners</div>
+            <img class="icon-check_mark-1" src="img/done-black-24dp-1@2x.png" />
+            
+             -->
+            
+            <div class="break-appoinment-with-no-reasons baloo-regular-normal-black-20px">
+              Break appoinment with no reasons
+            </div>
+            <div class="others baloo-regular-normal-black-20px">Others</div>
+            <div class="rectangle-56"></div>
+            <div class="are-you-sure-after baloo-regular-normal-black-20px">
+              Are you sure?<br />After reporting, the profile<br />will be blocked
+            </div>
+            <div class="rectangle-57"></div>
+            <a href="reporting-check2.html"><div class="place baloo-regular-normal-black-25px">No</div> </a
+            ><a href="afterblockchat.html"><div class="yes baloo-regular-normal-black-25px">Yes</div> </a
+            ><img class="line-5" src="img/line-3@2x.png" />
+            <img class="line-6" src="img/line-4@2x.png" />
+          </div>
+          <img class="vector-4" src="https://anima-uploads.s3.amazonaws.com/projects/6287b7f77aeaf8f9c977a75a/releases/6287bb07c03e168a40af5279/img/vector@2x.png" />
+          <img class="vector-5" src="https://anima-uploads.s3.amazonaws.com/projects/6287b7f77aeaf8f9c977a75a/releases/6287bb07c03e168a40af5279/img/vector@2x.png" />
+        </div>
+        <div class="rectangle-81">
+        	<textarea rows="7px" cols="35px" style="border: 3px solid black;" disabled></textarea>
+        </div>
+        <div class="overlap-group8">
+          <div class="rectangle-82"></div>
+          <div class="submit baloo-regular-normal-black-15px">submit</div>
+        </div>
+        <div class="component-container">
+          <div class="component-5">
+            <div class="overlap-group">
+              <div class="rectangle-37 border-0-5px-iron"></div>
+              <div class="rectangle-36 border-0-5px-iron"></div>
+            </div>
+          </div>
+          <div class="component-4">
+            <div class="overlap-group1">
+              <img class="icon-home" src="img/home-black-24dp-1@2x.png" />
+              <div class="place-1 cairo-bold-black-13px">home</div>
+            </div>
+            <div class="overlap-group3">
+              <img class="groups_black_24dp-1" src="img/groups-black-24dp-1@2x.png" />
+              <div class="community cairo-bold-black-13px">community</div>
+            </div>
+            <div class="overlap-group2">
+              <div class="rectangle-38 border-0-5px-iron"></div>
+              <img class="x6366325_animal_breed" src="img/6366325-animal-breed-corgi-dog-pedigree-icon-1-3@2x.png" />
+              <img class="x6366340_animal_breed" src="img/6366340-animal-breed-dog-miniature-pedigree-icon-1@2x.png" />
+              <div class="rectangle-39 border-0-5px-iron"></div>
+              <img class="question_answer_black_24dp-1" src="img/question-answer-black-24dp-1@2x.png" />
+              <div class="chat cairo-bold-black-13px">chat</div>
+              <div class="text-58 cairo-light-black-20px">/</div>
+              <div class="place-2 cairo-bold-black-12px">Matching</div>
+            </div>
+            <div class="overlap-group4">
+              <img class="icon-user" src="img/person-black-24dp-1-1@2x.png" />
+              <div class="profile cairo-bold-black-13px">profile</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

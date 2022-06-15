@@ -1,0 +1,452 @@
+/* screen - writing-comment */
+
+.writing-comment {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.writing-comment .overlap-group7 {
+  height: 192px;
+  margin-left: -1px;
+  position: relative;
+  width: 362px;
+}
+
+.writing-comment .rectangle-21 {
+  background-color: var(--viking);
+  height: 62px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.writing-comment .arrow_back_black_24dp-1 {
+  height: 24px;
+  left: 1px;
+  position: absolute;
+  top: 19px;
+  width: 46px;
+}
+
+.writing-comment .hip-dog {
+  -webkit-text-stroke: 1px var(--viking);
+  left: 137px;
+  letter-spacing: 0;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 17px;
+  width: 86px;
+}
+
+.writing-comment .rectangle-81 {
+  background-color: var(--alabaster);
+  height: 133px;
+  left: 0;
+  position: absolute;
+  top: 59px;
+  width: 362px;
+}
+
+.writing-comment .ellipse-24 {
+  height: 100px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 100px;
+}
+
+.writing-comment .ellipse-25 {
+  height: 100px;
+  left: 222px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 100px;
+}
+
+.writing-comment .pets_black_24dp-14 {
+  height: 36px;
+  left: 164px;
+  position: absolute;
+  top: 102px;
+  width: 33px;
+}
+
+.writing-comment .brain {
+  left: 70px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 171px;
+  width: 51px;
+}
+
+.writing-comment .brownie {
+  left: 247px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 171px;
+  width: 60px;
+}
+
+.writing-comment .flex-row {
+  align-items: center;
+  display: flex;
+  margin-left: 5px;
+  margin-top: 9px;
+  min-width: 262px;
+}
+
+.writing-comment .overlap-group8 {
+  height: 25px;
+  margin-bottom: 1.0px;
+  position: relative;
+  width: 90px;
+}
+
+.writing-comment .rectangle-81-1 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 90px;
+}
+
+.writing-comment .comments {
+  left: 10px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 5px;
+}
+
+.writing-comment .pets_black_24dp-14-1 {
+  align-self: flex-start;
+  height: 30px;
+  margin-left: 7px;
+  width: 30px;
+}
+
+.writing-comment .overlap-group6 {
+  height: 32px;
+  margin-left: 7px;
+  position: relative;
+  width: 41px;
+}
+
+.writing-comment .rectangle-84 {
+  background-color: var(--black-haze);
+  height: 31px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 41px;
+}
+
+.writing-comment .number {
+  left: 8px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 5px;
+  width: 17px;
+}
+
+.writing-comment .vector {
+  height: 10px;
+  left: 22px;
+  position: absolute;
+  top: 11px;
+  width: 15px;
+}
+
+.writing-comment .rate-this-user {
+  letter-spacing: 0;
+  margin-left: 7px;
+  margin-top: 7px;
+  min-height: 24px;
+  width: 80px;
+  line-height: 20px;
+}
+
+.writing-comment .overlap-group5 {
+  align-self: flex-end;
+  height: 302px;
+  margin-right: 2px;
+  margin-top: 11px;
+  position: relative;
+  width: 341px;
+}
+
+.writing-comment .rectangle-83 {
+  background-color: var(--black-haze);
+  height: 302px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 326px;
+}
+
+.writing-comment .text-5 {
+  left: 262px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 277px;
+  width: 79px;
+}
+
+.writing-comment .text-6 {
+  left: 11px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 12px;
+}
+
+.writing-comment .flex-row-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 28px;
+  margin-left: 11.0px;
+  margin-top: 10px;
+  min-width: 325px;
+}
+
+.writing-comment .add_black_24dp-1 {
+  height: 24px;
+  width: 24px;
+}
+
+.writing-comment .add-images {
+  letter-spacing: 0;
+  margin-left: 3px;
+  min-height: 17px;
+  width: 113px;
+  padding-top: 6px;
+}
+
+.writing-comment .overlap-group9 {
+  align-self: flex-end;
+  height: 25px;
+  margin-left: 89px;
+  position: relative;
+  width: 96px;
+}
+
+.writing-comment .rectangle-82 {
+  background-color: var(--black-haze);
+  border-radius: 15px;
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 84px;
+}
+
+.writing-comment .submit {
+  left: 19px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 6px;
+  width: 79px;
+}
+
+.writing-comment .component-container {
+  height: 44px;
+  margin-top: 17px;
+  position: relative;
+  width: 360px;
+}
+
+.writing-comment .component-5 {
+  align-items: flex-start;
+  background-color: var(--viking);
+  display: flex;
+  height: 39px;
+  left: 0;
+  min-width: 360px;
+  position: absolute;
+  top: 0;
+}
+
+.writing-comment .overlap-group {
+  height: 41px;
+  margin-left: -1px;
+  margin-top: -1px;
+  position: relative;
+  width: 146px;
+}
+
+.writing-comment .rectangle-37 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 69px;
+  position: absolute;
+  top: 0;
+  width: 77px;
+}
+
+.writing-comment .rectangle-36 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 71px;
+}
+
+.writing-comment .component-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 44px;
+  left: 20px;
+  min-width: 323px;
+  position: absolute;
+  top: 0;
+}
+
+.writing-comment .overlap-group2 {
+  align-self: flex-end;
+  height: 39px;
+  margin-bottom: 1px;
+  position: relative;
+  width: 33px;
+}
+
+.writing-comment .home_black_24dp-1 {
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.writing-comment .place {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 22px;
+}
+
+.writing-comment .overlap-group1 {
+  height: 41px;
+  margin-left: 22px;
+  position: relative;
+  width: 64px;
+}
+
+.writing-comment .groups_black_24dp-1 {
+  height: 32px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 36px;
+}
+
+.writing-comment .community {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 26px;
+}
+
+.writing-comment .overlap-group3 {
+  height: 44px;
+  margin-left: 4px;
+  margin-top: -1px;
+  position: relative;
+  width: 146px;
+}
+
+.writing-comment .rectangle-38 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 73px;
+}
+
+.writing-comment .x6366325_animal_breed {
+  height: 21px;
+  left: 3px;
+  position: absolute;
+  top: 5px;
+  width: 32px;
+}
+
+.writing-comment .x6366340_animal_breed {
+  height: 28px;
+  left: 37px;
+  position: absolute;
+  top: 5px;
+  width: 33px;
+}
+
+.writing-comment .rectangle-39 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 72px;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.writing-comment .question_answer_black_24dp-1 {
+  height: 24px;
+  left: 92px;
+  position: absolute;
+  top: 7px;
+  width: 34px;
+}
+
+.writing-comment .chat {
+  left: 96px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 26px;
+}
+
+.writing-comment .text-4 {
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 10px;
+}
+
+.writing-comment .place-1 {
+  left: 12px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 27px;
+}
+
+.writing-comment .overlap-group4 {
+  align-self: flex-end;
+  height: 39px;
+  margin-bottom: 1px;
+  margin-left: 17px;
+  position: relative;
+  width: 37px;
+}
+
+.writing-comment .person_black_24dp-1 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.writing-comment .profile {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 20px;
+}

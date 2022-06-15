@@ -1,0 +1,268 @@
+/* screen - community-type-click-add-image */
+
+.community-type-click-add-image {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 640px;
+  min-width: 360px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.community-type-click-add-image .component-9-C61RwL {
+  background-color: transparent;
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 360px;
+}
+
+.community-type-click-add-image .rectangle-21-y49ok2 {
+  background-color: var(--viking);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-type-click-add-image .icon-close-y49ok2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 56.45%;
+  left: 3.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 22.58%;
+  width: 11.11%;
+}
+
+.community-type-click-add-image .x1-C61RwL {
+  background-color: transparent;
+  height: 203px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 437px;
+  width: 360px;
+}
+
+.community-type-click-add-image .x1-GML0ip {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-type-click-add-image .component-105-C61RwL {
+  background-color: transparent;
+  height: 270px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 62px;
+  width: 360px;
+}
+
+.community-type-click-add-image .rectangle-54-sZv3q8 {
+  background-color: var(--white);
+  height: 35.19%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0.37%;
+  width: 100.56%;
+}
+
+.community-type-click-add-image .component-12-sZv3q8 {
+  background-color: transparent;
+  height: 8.52%;
+  left: 3.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4.07%;
+  width: 25.28%;
+}
+
+.community-type-click-add-image .rectangle-31-El8yOq {
+  background-color: var(--mercury);
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.community-type-click-add-image .hospital-El8yOq {
+  background-color: transparent;
+  height: 95.65%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.community-type-click-add-image .account_circle_black_24dp-3-sZv3q8 {
+  background-color: transparent;
+  height: 14.07%;
+  left: 1.11%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 15.56%;
+  width: 11.11%;
+}
+
+.community-type-click-add-image .gyuri-kim-5-min-ago-sZv3q8 {
+  background-color: transparent;
+  height: 15.19%;
+  left: 14.17%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17.04%;
+  width: 13.61%;
+}
+
+.community-type-click-add-image .span0-AYGX0M {
+}
+
+.community-type-click-add-image .span1-AYGX0M {
+}
+
+.community-type-click-add-image .rectangle-54-CC539r {
+  background-color: var(--white);
+  height: 49.26%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 34.07%;
+  width: 100.56%;
+}
+
+.community-type-click-add-image .where-is-a-24-hour-hospital-nearby-sZv3q8 {
+  background-color: transparent;
+  height: 10.37%;
+  left: 17.50%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 51.48%;
+  width: 63.33%;
+}
+
+.community-type-click-add-image .rectangle-54-xfHulW {
+  background-color: var(--white);
+  height: 17.78%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 82.59%;
+  width: 100.56%;
+}
+
+.community-type-click-add-image .chat_bubble_outline_black_24dp-6-sZv3q8 {
+  background-color: transparent;
+  height: 12.96%;
+  left: 1.94%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 84.81%;
+  width: 8.89%;
+}
+
+.community-type-click-add-image .component-104-C61RwL {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 403px;
+  width: 360px;
+}
+
+.community-type-click-add-image .component-14-vDqTxW {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-type-click-add-image .rectangle-51-DuYsTX {
+  background-color: var(--viking);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-type-click-add-image .image_black_24dp-2-DuYsTX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64.86%;
+  left: 2.50%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17.57%;
+  width: 12.22%;
+}
+
+.community-type-click-add-image .rectangle-52-DuYsTX {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 46.77%;
+  left: 20.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.42%;
+  width: 67.22%;
+}
+
+.community-type-click-add-image .arrow_circle_up_black_24dp-1-DuYsTX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 40.54%;
+  left: 90.83%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 29.73%;
+  width: 6.67%;
+}
+
+.community-type-click-add-image .x1-vDqTxW {
+  background-color: transparent;
+  height: 64.86%;
+  left: 13.89%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 35.14%;
+  width: 1.67%;
+}

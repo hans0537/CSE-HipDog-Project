@@ -1,0 +1,721 @@
+/* screen - report-comment-status */
+
+.report-comment-status {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.report-comment-status .overlap-group5 {
+  height: 352px;
+  margin-left: -1px;
+  position: relative;
+  width: 362px;
+}
+
+.report-comment-status .rectangle-61 {
+  background-color: var(--alabaster);
+  height: 160px;
+  left: 0;
+  position: absolute;
+  top: 192px;
+  width: 362px;
+}
+
+.report-comment-status .rectangle-30 {
+  background-color: var(--alabaster);
+  height: 133px;
+  left: 0;
+  position: absolute;
+  top: 61px;
+  width: 362px;
+}
+
+.report-comment-status .rectangle-21 {
+  background-color: var(--viking);
+  height: 62px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.report-comment-status .arrow_back_black_24dp-1 {
+  cursor: pointer;
+  height: 24px;
+  left: 1px;
+  position: absolute;
+  top: 19px;
+  width: 46px;
+}
+
+.report-comment-status .hip-dog {
+  -webkit-text-stroke: 1px var(--viking);
+  left: 137px;
+  letter-spacing: 0;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 17px;
+  width: 86px;
+}
+
+.report-comment-status .ellipse-21 {
+  height: 100px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 72px;
+  width: 100px;
+}
+
+.report-comment-status .ellipse-22 {
+  height: 100px;
+  left: 225px;
+  object-fit: cover;
+  position: absolute;
+  top: 72px;
+  width: 100px;
+}
+
+.report-comment-status .pets_black_24dp-2 {
+  height: 36px;
+  left: 164px;
+  position: absolute;
+  top: 104px;
+  width: 36px;
+}
+
+.report-comment-status .pets_black_24dp-3 {
+  height: 25px;
+  left: 21px;
+  position: absolute;
+  top: 249px;
+  width: 25px;
+}
+
+.report-comment-status .pets_black_24dp-4 {
+  height: 25px;
+  left: 49px;
+  position: absolute;
+  top: 249px;
+  width: 25px;
+}
+
+.report-comment-status .pets_black_24dp-3-1 {
+  height: 25px;
+  left: 77px;
+  position: absolute;
+  top: 249px;
+  width: 25px;
+}
+
+.report-comment-status .pets_black_24dp-3-2 {
+  height: 25px;
+  left: 105px;
+  position: absolute;
+  top: 249px;
+  width: 25px;
+}
+
+.report-comment-status .pets_black_24dp-3-3 {
+  height: 25px;
+  left: 133px;
+  position: absolute;
+  top: 249px;
+  width: 25px;
+}
+
+.report-comment-status .name {
+  left: 70px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 171px;
+  width: 51px;
+}
+
+.report-comment-status .thor {
+  left: 258px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 171px;
+  width: 38px;
+}
+
+.report-comment-status .text-24 {
+  left: 68px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 212px;
+  width: 46px;
+}
+
+.report-comment-status .number {
+  left: 54px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 295px;
+  width: 20px;
+}
+
+.report-comment-status .number-1 {
+  left: 185px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 214px;
+  width: 10px;
+}
+
+.report-comment-status .number-2 {
+  left: 330px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 214px;
+  width: 27px;
+}
+
+.report-comment-status .icon-caution {
+  height: 40px;
+  left: 9px;
+  position: absolute;
+  top: 289px;
+  width: 40px;
+}
+
+.report-comment-status .rectangle-67 {
+  background-color: var(--mist-gray);
+  border-radius: 20px;
+  height: 32px;
+  left: 81px;
+  position: absolute;
+  top: 292px;
+  width: 91px;
+}
+
+.report-comment-status .report {
+  left: 95px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 297px;
+  width: 76px;
+}
+
+.report-comment-status .rectangle-68 {
+  background-color: var(--ebb);
+  border-radius: 25px;
+  height: 7px;
+  left: 200px;
+  position: absolute;
+  top: 220px;
+  width: 125px;
+}
+
+.report-comment-status .rectangle-69 {
+  background-color: var(--yellow-sunshine-2);
+  border-radius: 25px;
+  height: 7px;
+  left: 200px;
+  position: absolute;
+  top: 220px;
+  width: 96px;
+}
+
+.report-comment-status .number-3 {
+  left: 185px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 235px;
+  width: 10px;
+}
+
+.report-comment-status .number-4 {
+  left: 331px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 235px;
+  width: 27px;
+}
+
+.report-comment-status .rectangle-70 {
+  background-color: var(--ebb);
+  border-radius: 25px;
+  height: 7px;
+  left: 201px;
+  position: absolute;
+  top: 241px;
+  width: 125px;
+}
+
+.report-comment-status .rectangle-71 {
+  background-color: var(--yellow-sunshine-2);
+  border-radius: 25px;
+  height: 7px;
+  left: 201px;
+  position: absolute;
+  top: 241px;
+  width: 10px;
+}
+
+.report-comment-status .number-5 {
+  left: 186px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 256px;
+  width: 10px;
+}
+
+.report-comment-status .number-6 {
+  left: 331px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 256px;
+  width: 27px;
+}
+
+.report-comment-status .rectangle-72 {
+  background-color: var(--ebb);
+  border-radius: 25px;
+  height: 7px;
+  left: 201px;
+  position: absolute;
+  top: 262px;
+  width: 125px;
+}
+
+.report-comment-status .number-7 {
+  left: 186px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 277px;
+  width: 10px;
+}
+
+.report-comment-status .number-8 {
+  left: 331px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 277px;
+  width: 27px;
+}
+
+.report-comment-status .rectangle-74 {
+  background-color: var(--ebb);
+  border-radius: 25px;
+  height: 7px;
+  left: 201px;
+  position: absolute;
+  top: 283px;
+  width: 125px;
+}
+
+.report-comment-status .number-9 {
+  left: 186px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 298px;
+  width: 10px;
+}
+
+.report-comment-status .number-10 {
+  left: 331px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 298px;
+  width: 27px;
+}
+
+.report-comment-status .rectangle-76 {
+  background-color: var(--ebb);
+  border-radius: 25px;
+  height: 7px;
+  left: 201px;
+  position: absolute;
+  top: 304px;
+  width: 125px;
+}
+
+.report-comment-status .overlap-group8 {
+  height: 25px;
+  margin-left: 3px;
+  margin-top: 8px;
+  position: relative;
+  width: 90px;
+}
+
+.report-comment-status .rectangle-30-1 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 90px;
+}
+
+.report-comment-status .comments {
+  left: 8px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 5px;
+}
+
+.report-comment-status .flex-row {
+  align-items: flex-end;
+  align-self: center;
+  background-color: var(--alabaster);
+  border-radius: 20px;
+  display: flex;
+  height: 202px;
+  justify-content: flex-end;
+  margin-left: 1.0px;
+  margin-top: 7px;
+  min-width: 335px;
+  padding: 0 9px;
+}
+
+.report-comment-status .ellipse-container {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 16px;
+  min-height: 113px;
+  width: 33px;
+}
+
+.report-comment-status .ellipse-21-1 {
+  height: 33px;
+  object-fit: cover;
+  width: 33px;
+}
+
+.report-comment-status .ellipse-23 {
+  height: 33px;
+  margin-top: 47px;
+  object-fit: cover;
+  width: 33px;
+}
+
+.report-comment-status .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1px;
+  min-height: 189px;
+  width: 204px;
+}
+
+.report-comment-status .pets_black_dp-container {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 6px;
+  min-width: 98px;
+}
+
+.report-comment-status .pets_black_24dp-5 {
+  height: 18px;
+  width: 18px;
+}
+
+.report-comment-status .pets_black_24dp {
+  height: 18px;
+  margin-left: 2px;
+  width: 18px;
+}
+
+.report-comment-status .overlap-group10 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 32px;
+  justify-content: flex-end;
+  margin-top: 8px;
+  min-width: 177px;
+  padding: 2px;
+}
+
+.report-comment-status .it-was-glad-to-see-you {
+  letter-spacing: 0;
+  min-height: 23px;
+  width: 162px;
+  line-height: 25px;
+}
+
+.report-comment-status .pets_black_dp-container-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 6px;
+  margin-top: 22px;
+  min-width: 78px;
+}
+
+.report-comment-status .pets_black_24dp-10 {
+  height: 19px;
+  width: 18px;
+}
+
+.report-comment-status .pets_black_24dp-1 {
+  height: 19px;
+  margin-left: 2px;
+  width: 18px;
+}
+
+.report-comment-status .overlap-group9 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 60px;
+  margin-top: 8px;
+  min-width: 204px;
+  padding: 8px 13px;
+}
+
+.report-comment-status .we-had-a-wonderful-t {
+  letter-spacing: 0;
+  min-height: 77px;
+  width: 178px;
+  line-height: 19px;
+}
+
+.report-comment-status .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 187px;
+  margin-bottom: 1px;
+  margin-left: 4px;
+  min-width: 63px;
+}
+
+.report-comment-status .component-15 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--white);
+  border-radius: 22.5px;
+  display: flex;
+  height: 45px;
+  min-width: 45px;
+  padding: 5px;
+}
+
+.report-comment-status .edit_fill0_wght400_grad0_opsz48-1 {
+  height: 33px;
+  width: 33px;
+}
+
+.report-comment-status .overlap-group11 {
+  align-items: flex-start;
+  background-color: var(--ebb-2);
+  border-radius: 15px;
+  display: flex;
+  height: 173px;
+  margin-left: 2px;
+  min-width: 16px;
+  padding: 4px 3px;
+}
+
+.report-comment-status .rectangle-80 {
+  background-color: var(--mist-gray);
+  border-radius: 15px;
+  height: 50px;
+  width: 10px;
+}
+
+.report-comment-status .component-container {
+  height: 44px;
+  margin-top: 7px;
+  position: relative;
+  width: 360px;
+}
+
+.report-comment-status .component-5 {
+  align-items: flex-start;
+  background-color: var(--viking);
+  display: flex;
+  height: 39px;
+  left: 0;
+  min-width: 360px;
+  position: absolute;
+  top: 0;
+}
+
+.report-comment-status .overlap-group {
+  height: 41px;
+  margin-left: -1px;
+  margin-top: -1px;
+  position: relative;
+  width: 146px;
+}
+
+.report-comment-status .rectangle-37 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 69px;
+  position: absolute;
+  top: 0;
+  width: 77px;
+}
+
+.report-comment-status .rectangle-36 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 71px;
+}
+
+.report-comment-status .component-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 44px;
+  left: 20px;
+  min-width: 323px;
+  position: absolute;
+  top: 0;
+}
+
+.report-comment-status .overlap-group2 {
+  align-self: flex-end;
+  height: 39px;
+  margin-bottom: 1px;
+  position: relative;
+  width: 33px;
+}
+
+.report-comment-status .icon-home {
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.report-comment-status .place {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 22px;
+}
+
+.report-comment-status .overlap-group4 {
+  height: 41px;
+  margin-left: 22px;
+  position: relative;
+  width: 64px;
+}
+
+.report-comment-status .groups_black_24dp-1 {
+  height: 32px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 36px;
+}
+
+.report-comment-status .community {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 25px;
+}
+
+.report-comment-status .overlap-group1 {
+  height: 44px;
+  margin-left: 4px;
+  margin-top: -1px;
+  position: relative;
+  width: 146px;
+}
+
+.report-comment-status .rectangle-38 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 73px;
+}
+
+.report-comment-status .x6366325_animal_breed {
+  height: 21px;
+  left: 3px;
+  position: absolute;
+  top: 5px;
+  width: 32px;
+}
+
+.report-comment-status .x6366340_animal_breed {
+  height: 28px;
+  left: 37px;
+  position: absolute;
+  top: 5px;
+  width: 33px;
+}
+
+.report-comment-status .rectangle-39 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 72px;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.report-comment-status .question_answer_black_24dp-1 {
+  height: 24px;
+  left: 92px;
+  position: absolute;
+  top: 7px;
+  width: 34px;
+}
+
+.report-comment-status .chat {
+  left: 96px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 27px;
+}
+
+.report-comment-status .text-23 {
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 10px;
+}
+
+.report-comment-status .place-1 {
+  left: 12px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 27px;
+}
+
+.report-comment-status .overlap-group3 {
+  align-self: flex-end;
+  height: 39px;
+  margin-bottom: 1px;
+  margin-left: 17px;
+  position: relative;
+  width: 37px;
+}
+
+.report-comment-status .icon-user {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.report-comment-status .profile {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 22px;
+}

@@ -1,0 +1,1149 @@
+/* screen - community-searchbar */
+input {
+  width: 168px;
+  top: 16px;
+  height: 30px;
+}
+.community-searchbar {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 640px;
+  min-width: 360px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.community-searchbar .component-21-C61RwL {
+  background-color: transparent;
+  height: 956px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 183px;
+  width: 360px;
+}
+
+.community-searchbar .rectangle-114-U6xerV {
+  background-color: var(--white);
+  height: 99.55%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0.45%;
+  width: 100%;
+}
+
+.community-searchbar .component-22-U6xerV {
+  background-color: transparent;
+  height: 12.87%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 77.30%;
+  width: 100%;
+}
+
+.community-searchbar .rectangle-115-zMOVXH {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-searchbar .rectangle-116-zMOVXH {
+  background-color: var(--white);
+  height: 23.30%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 76.81%;
+  width: 100.56%;
+}
+
+.community-searchbar .chat_bubble_outline_black_24dp-2-zMOVXH {
+  background-color: transparent;
+  height: 17.07%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 80.97%;
+  width: 6.67%;
+}
+
+.community-searchbar .icon-heart-zMOVXH {
+  background-color: transparent;
+  height: 17.07%;
+  left: 83.06%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 80.97%;
+  width: 6.67%;
+}
+
+.community-searchbar .central-park-is-a-re-zMOVXH {
+  background-color: transparent;
+  height: 19.51%;
+  left: 11.67%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29.37%;
+  width: 75.83%;
+}
+
+.community-searchbar .component-21-U6xerV {
+  background-color: transparent;
+  height: 13.91%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 63.39%;
+  width: 100%;
+}
+
+.community-searchbar .rectangle-115-6g9Fqq {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-searchbar .rectangle-116-6g9Fqq {
+  background-color: var(--white);
+  height: 23.18%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 76.87%;
+  width: 100.56%;
+}
+
+.community-searchbar .chat_bubble_outline_black_24dp-2-6g9Fqq {
+  background-color: transparent;
+  height: 17.29%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 80.86%;
+  width: 6.67%;
+}
+
+.community-searchbar .icon-heart-6g9Fqq {
+  background-color: transparent;
+  height: 17.29%;
+  left: 83.06%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 80.86%;
+  width: 6.67%;
+}
+
+.community-searchbar .central-park-is-a-re-6g9Fqq {
+  background-color: transparent;
+  height: 33.08%;
+  left: 11.67%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29.37%;
+  width: 79.72%;
+}
+
+.community-searchbar .q-a-U6xerV {
+  background-color: transparent;
+  height: 2.28%;
+  left: 3.33%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 22.22%;
+}
+
+.community-searchbar .component-19-U6xerV {
+  background-color: transparent;
+  height: 15.72%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 47.67%;
+  width: 100%;
+}
+
+.community-searchbar .rectangle-115-piS2MB {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-searchbar .rectangle-116-piS2MB {
+  background-color: var(--white);
+  height: 23.01%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 76.96%;
+  width: 100.56%;
+}
+
+.community-searchbar .chat_bubble_outline_black_24dp-2-piS2MB {
+  background-color: transparent;
+  height: 16.97%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 81.03%;
+  width: 6.67%;
+}
+
+.community-searchbar .icon-heart-piS2MB {
+  background-color: transparent;
+  height: 16.97%;
+  left: 83.06%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 81.03%;
+  width: 6.67%;
+}
+
+.community-searchbar .central-park-is-a-re-piS2MB {
+  background-color: transparent;
+  height: 15.97%;
+  left: 11.67%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29.37%;
+  width: 0px;
+}
+
+.community-searchbar .dog-cafe-U6xerV {
+  background-color: transparent;
+  height: 2.28%;
+  left: 3.33%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 22.22%;
+}
+
+.community-searchbar .component-18-U6xerV {
+  background-color: transparent;
+  height: 15.72%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 31.95%;
+  width: 100%;
+}
+
+.community-searchbar .rectangle-115-CNYEtx {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-searchbar .rectangle-116-CNYEtx {
+  background-color: var(--white);
+  height: 23.01%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 76.96%;
+  width: 100.56%;
+}
+
+.community-searchbar .chat_bubble_outline_black_24dp-2-CNYEtx {
+  background-color: transparent;
+  height: 17.30%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 80.86%;
+  width: 6.67%;
+}
+
+.community-searchbar .icon-heart-CNYEtx {
+  background-color: transparent;
+  height: 17.30%;
+  left: 83.06%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 80.86%;
+  width: 6.67%;
+}
+
+.community-searchbar .central-park-is-a-re-CNYEtx {
+  background-color: transparent;
+  height: 31.94%;
+  left: 11.67%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 29.37%;
+  width: 81.11%;
+}
+
+.community-searchbar .component-3-U6xerV {
+  background-color: transparent;
+  height: 2.38%;
+  left: 2.50%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32.68%;
+  width: 25.56%;
+}
+
+.community-searchbar .rectangle-31-Gm8kxQ {
+  background-color: var(--mercury);
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.community-searchbar .hospital-Gm8kxQ {
+  background-color: transparent;
+  height: 96.75%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.community-searchbar .component-17-U6xerV {
+  background-color: transparent;
+  height: 15.93%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16.03%;
+  width: 100%;
+}
+
+.community-searchbar .rectangle-33-xoK8sr {
+  background-color: var(--white);
+  height: 101.31%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0.66%;
+  width: 100.56%;
+}
+
+.community-searchbar .rectangle-34-xoK8sr {
+  background-color: var(--white);
+  height: 21.06%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 79.60%;
+  width: 100.56%;
+}
+
+.community-searchbar .chat_bubble_outline_black_24dp-2-xoK8sr {
+  background-color: transparent;
+  height: 15.76%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 82.56%;
+  width: 6.67%;
+}
+
+.community-searchbar .icon-heart-xoK8sr {
+  background-color: transparent;
+  height: 15.76%;
+  left: 83.06%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 82.56%;
+  width: 6.67%;
+}
+
+.community-searchbar .baronado-dog-cafe-is-xoK8sr {
+  background-color: transparent;
+  height: 31.53%;
+  left: 11.67%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 28.66%;
+  width: 82.22%;
+}
+
+.community-searchbar .component-2-U6xerV {
+  background-color: transparent;
+  height: 2.48%;
+  left: 2.50%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16.75%;
+  width: 25.56%;
+}
+
+.community-searchbar .rectangle-31-dU84Hx {
+  background-color: var(--mercury);
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.community-searchbar .hospital-dU84Hx {
+  background-color: transparent;
+  height: 92.72%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.community-searchbar .component-10-U6xerV {
+  background-color: transparent;
+  height: 16.03%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-searchbar .rectangle-30-GH3y6o {
+  background-color: var(--white);
+  height: 101.31%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0.65%;
+  width: 100.56%;
+}
+
+.community-searchbar .where-is-a-24-hour-hospital-nearby-GH3y6o {
+  background-color: transparent;
+  height: 18.27%;
+  left: 15.83%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 38.22%;
+  width: 63.33%;
+}
+
+.community-searchbar .rectangle-32-GH3y6o {
+  background-color: var(--white);
+  height: 21.05%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 79.60%;
+  width: 100.56%;
+}
+
+.community-searchbar .chat_bubble_outline_black_24dp-1-GH3y6o {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15.66%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 82.61%;
+  width: 6.67%;
+}
+
+.community-searchbar .icon-heart-GH3y6o {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15.66%;
+  left: 82.50%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 82.61%;
+  width: 6.67%;
+}
+
+.community-searchbar .component-1-U6xerV {
+  background-color: transparent;
+  height: 2.48%;
+  left: 2.50%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1.76%;
+  width: 25.56%;
+}
+
+.community-searchbar .rectangle-31-wjoxka {
+  background-color: var(--mercury);
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.community-searchbar .hospital-wjoxka {
+  background-color: transparent;
+  height: 92.72%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.community-searchbar .what-snack-does-your-U6xerV {
+  background-color: transparent;
+  height: 4.55%;
+  left: 15.28%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52.33%;
+  width: 74.72%;
+}
+
+.community-searchbar .component-20-U6xerV {
+  background-color: transparent;
+  height: 2.28%;
+  left: 2.50%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 48.40%;
+  width: 25.56%;
+}
+
+.community-searchbar .rectangle-31-MMKNFw {
+  background-color: var(--mercury);
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.community-searchbar .hospital-MMKNFw {
+  background-color: transparent;
+  height: 101.15%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.community-searchbar .component-7-U6xerV {
+  background-color: transparent;
+  height: 2.30%;
+  left: 2.50%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 64.12%;
+  width: 25.56%;
+}
+
+.community-searchbar .component-1-C5LP9Y {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.community-searchbar .rectangle-31-1OWrf0 {
+  background-color: var(--mercury);
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.community-searchbar .hospital-1OWrf0 {
+  background-color: transparent;
+  height: 100%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.community-searchbar .component-23-U6xerV {
+  background-color: transparent;
+  height: 2.30%;
+  left: 2.50%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 78.03%;
+  width: 25.56%;
+}
+
+.community-searchbar .component-1-3aVX2H {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.community-searchbar .rectangle-31-fdQ36e {
+  background-color: var(--mercury);
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.community-searchbar .hospital-fdQ36e {
+  background-color: transparent;
+  height: 100%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.community-searchbar .component-20-C61RwL {
+  background-color: transparent;
+  bottom: -5px;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: fixed;
+  width: 360px;
+}
+
+.community-searchbar .component-15-uWnxTg {
+  background-color: transparent;
+  height: 102.27%;
+  left: 86.11%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -115.91%;
+  width: 12.50%;
+}
+
+.community-searchbar .ellipse-27-kPMowq {
+  background-color: var(--white);
+  border-radius: 22.5px;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-searchbar .edit_fill0_wght400_grad0_opsz48-1-kPMowq {
+  background-color: transparent;
+  height: 73.33%;
+  left: 13.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13.33%;
+  width: 73.33%;
+}
+
+.community-searchbar .component-5-uWnxTg {
+  background-color: transparent;
+  height: 88.64%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-searchbar .rectangle-35-NxZUiA {
+  background-color: var(--viking);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-searchbar .rectangle-37-NxZUiA {
+  background-color: var(--viking);
+  height: 105.13%;
+  left: 18.89%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2.56%;
+  width: 21.39%;
+}
+
+.community-searchbar .rectangle-36-NxZUiA {
+  background-color: var(--viking);
+  height: 105.13%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2.56%;
+  width: 19.72%;
+}
+
+.community-searchbar .component-4-uWnxTg {
+  background-color: transparent;
+  height: 100%;
+  left: 5.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 89.72%;
+}
+
+.community-searchbar .icon-home-ecrdIk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 63.64%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9.09%;
+  width: 9.91%;
+}
+
+.community-searchbar .home-ecrdIk {
+  background-color: transparent;
+  height: 54.55%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 10.22%;
+}
+
+.community-searchbar .groups_black_24dp-1-ecrdIk {
+  background-color: transparent;
+  height: 72.73%;
+  left: 20.74%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 11.15%;
+}
+
+.community-searchbar .community-ecrdIk {
+  background-color: transparent;
+  height: 54.55%;
+  left: 17.03%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 40.91%;
+  width: 19.81%;
+}
+
+.community-searchbar .rectangle-38-ecrdIk {
+  background-color: var(--viking);
+  height: 93.18%;
+  left: 38.08%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2.27%;
+  width: 22.60%;
+}
+
+.community-searchbar .x6366325_animal_breed-ecrdIk {
+  background-color: transparent;
+  height: 47.73%;
+  left: 39.01%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9.09%;
+  width: 9.91%;
+}
+
+.community-searchbar .x6366340_animal_breed-ecrdIk {
+  background-color: transparent;
+  height: 63.64%;
+  left: 49.54%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9.09%;
+  width: 10.22%;
+}
+
+.community-searchbar .rectangle-39-ecrdIk {
+  background-color: var(--viking);
+  height: 93.18%;
+  left: 60.37%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2.27%;
+  width: 22.91%;
+}
+
+.community-searchbar .question_answer_black_24dp-1-ecrdIk {
+  background-color: transparent;
+  height: 54.55%;
+  left: 66.56%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13.64%;
+  width: 10.53%;
+}
+
+.community-searchbar .chat-ecrdIk {
+  background-color: transparent;
+  height: 54.55%;
+  left: 67.80%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 7.74%;
+}
+
+.community-searchbar .icon-user-ecrdIk {
+  background-color: transparent;
+  height: 54.55%;
+  left: 88.54%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9.09%;
+  width: 11.46%;
+}
+
+.community-searchbar .profile-ecrdIk {
+  background-color: transparent;
+  height: 54.55%;
+  left: 88.54%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 11.46%;
+}
+
+.community-searchbar .x-ecrdIk {
+  background-color: transparent;
+  height: 84.09%;
+  left: 47.68%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 2.48%;
+}
+
+.community-searchbar .matching-ecrdIk {
+  background-color: transparent;
+  height: 50.00%;
+  left: 41.80%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 47.73%;
+  width: 15.17%;
+}
+
+.community-searchbar .rectangle-23-C61RwL {
+  background-color: var(--alabaster);
+  height: 125px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: fixed;
+  top: 61px;
+  width: 362px;
+}
+
+.community-searchbar .rectangle-29-C61RwL {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: fixed;
+  top: 133px;
+  width: 108px;
+}
+
+.community-searchbar .q-a-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: fixed;
+  text-align: left;
+  top: 136px;
+  width: auto;
+}
+
+.community-searchbar .rectangle-26-C61RwL {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 126px;
+  mix-blend-mode: normal;
+  position: fixed;
+  top: 133px;
+  width: 108px;
+}
+
+.community-searchbar .place-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: fixed;
+  text-align: left;
+  top: 136px;
+  width: auto;
+}
+
+.community-searchbar .rectangle-25-C61RwL {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 243px;
+  mix-blend-mode: normal;
+  position: fixed;
+  top: 133px;
+  width: 108px;
+}
+
+.community-searchbar .dog-cafe-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 260px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: fixed;
+  text-align: left;
+  top: 136px;
+  width: auto;
+}
+
+.community-searchbar .rectangle-27-C61RwL {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 243px;
+  mix-blend-mode: normal;
+  position: fixed;
+  top: 77px;
+  width: 108px;
+}
+
+.community-searchbar .animals-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 262px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: fixed;
+  text-align: left;
+  top: 80px;
+  width: auto;
+}
+
+.community-searchbar .rectangle-28-C61RwL {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 126px;
+  mix-blend-mode: normal;
+  position: fixed;
+  top: 77px;
+  width: 108px;
+}
+
+.community-searchbar .hospital-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 144px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: fixed;
+  text-align: left;
+  top: 80px;
+  width: auto;
+}
+
+.community-searchbar .rectangle-24-C61RwL {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: fixed;
+  top: 77px;
+  width: 108px;
+}
+
+.community-searchbar .restaurant-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: fixed;
+  text-align: left;
+  top: 80px;
+  width: auto;
+}
+
+.community-searchbar .rectangle-21-C61RwL {
+  background-color: var(--viking);
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: fixed;
+  top: 0px;
+  width: 360px;
+}
+
+.community-searchbar .rectangle-22-C61RwL {
+  background-color: var(--white);
+  height: 30px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: fixed;
+  top: 16px;
+  width: 168px;
+}
+
+.community-searchbar .icon-search-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  left: 314px;
+  mix-blend-mode: normal;
+  position: fixed;
+  top: 16px;
+  width: 33px;
+}
+
+.community-searchbar .expand_more_black_24dp-1-C61RwL {
+  background-color: transparent;
+  height: 24px;
+  left: 105px;
+  mix-blend-mode: normal;
+  position: fixed;
+  top: 19px;
+  width: 24px;
+}
+
+.community-searchbar .songdo-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: fixed;
+  text-align: left;
+  top: 12px;
+  width: auto;
+}
+
+.community-searchbar .x2-C61RwL {
+  background-color: transparent;
+  height: 210px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: fixed;
+  top: 433px;
+  width: 360px;
+}

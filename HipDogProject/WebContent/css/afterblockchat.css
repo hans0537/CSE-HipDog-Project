@@ -1,0 +1,386 @@
+/* screen - afterblockchat */
+
+.afterblockchat {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.afterblockchat .overlap-group5 {
+  height: 299px;
+  margin-left: -1px;
+  position: relative;
+  width: 362px;
+}
+
+.afterblockchat .rectangle-21 {
+  background-color: var(--viking);
+  height: 62px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.afterblockchat .rectangle-23 {
+  background-color: var(--alabaster);
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 61px;
+  width: 362px;
+}
+
+.afterblockchat .rectangle-26 {
+  background-color: var(--alabaster);
+  height: 69px;
+  left: 0;
+  position: absolute;
+  top: 96px;
+  width: 362px;
+}
+
+.afterblockchat .rectangle-28 {
+  background-color: var(--alabaster);
+  height: 69px;
+  left: 0;
+  position: absolute;
+  top: 163px;
+  width: 362px;
+}
+
+.afterblockchat .rectangle-24 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 24px;
+  left: 4px;
+  position: absolute;
+  top: 67px;
+  width: 90px;
+}
+
+.afterblockchat .messages {
+  left: 17.5px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 71px;
+}
+
+.afterblockchat .hip-dog {
+  -webkit-text-stroke: 1px var(--viking);
+  left: 137px;
+  letter-spacing: 0;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 17px;
+  width: 86px;
+}
+
+.afterblockchat .ellipse-15 {
+  height: 47px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 109px;
+  width: 47px;
+}
+
+.afterblockchat .rectangle-29 {
+  background-color: var(--alabaster);
+  height: 69px;
+  left: 0;
+  position: absolute;
+  top: 230px;
+  width: 362px;
+}
+
+.afterblockchat .ellipse-18 {
+  height: 47px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 241px;
+  width: 47px;
+}
+
+.afterblockchat .ellipse-17 {
+  height: 47px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 174px;
+  width: 47px;
+}
+
+.afterblockchat .name {
+  left: 68px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 108px;
+  width: 51px;
+}
+
+.afterblockchat .mimi {
+  left: 68px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 240px;
+  width: 51px;
+}
+
+.afterblockchat .name-1 {
+  left: 68px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 173px;
+  width: 51px;
+}
+
+.afterblockchat .hi {
+  left: 68px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 133px;
+  width: 80px;
+}
+
+.afterblockchat .lets-meet-at-7pm {
+  left: 68px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 199px;
+  width: 121px;
+}
+
+.afterblockchat .im-fine-thanks-and-you {
+  left: 68px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 267px;
+  width: 212px;
+}
+
+.afterblockchat .ellipse-19 {
+  background-color: var(--red-2);
+  border-radius: 12.5px;
+  height: 25px;
+  left: 315px;
+  position: absolute;
+  top: 120px;
+  width: 25px;
+}
+
+.afterblockchat .number {
+  left: 325px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 126px;
+  width: 6px;
+}
+
+.afterblockchat .arrow_back_black_24dp-2 {
+  cursor: pointer;
+  height: 24px;
+  left: 1px;
+  position: absolute;
+  top: 21px;
+  width: 46px;
+}
+
+.afterblockchat .component-container {
+  height: 44px;
+  margin-top: 302px;
+  position: relative;
+  width: 360px;
+}
+
+.afterblockchat .component-5 {
+  align-items: flex-start;
+  background-color: var(--viking);
+  display: flex;
+  height: 39px;
+  left: 0;
+  min-width: 360px;
+  position: absolute;
+  top: 0;
+}
+
+.afterblockchat .overlap-group {
+  height: 41px;
+  margin-left: -1px;
+  margin-top: -1px;
+  position: relative;
+  width: 146px;
+}
+
+.afterblockchat .rectangle-37 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 69px;
+  position: absolute;
+  top: 0;
+  width: 77px;
+}
+
+.afterblockchat .rectangle-36 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 71px;
+}
+
+.afterblockchat .component-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 44px;
+  left: 20px;
+  min-width: 323px;
+  position: absolute;
+  top: 0;
+}
+
+.afterblockchat .overlap-group2 {
+  align-self: flex-end;
+  height: 39px;
+  margin-bottom: 1px;
+  position: relative;
+  width: 33px;
+}
+
+.afterblockchat .icon-home {
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.afterblockchat .place {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 22px;
+}
+
+.afterblockchat .overlap-group4 {
+  height: 41px;
+  margin-left: 22px;
+  position: relative;
+  width: 64px;
+}
+
+.afterblockchat .groups_black_24dp-1 {
+  height: 32px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 36px;
+}
+
+.afterblockchat .community {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 25px;
+}
+
+.afterblockchat .overlap-group1 {
+  height: 44px;
+  margin-left: 4px;
+  margin-top: -1px;
+  position: relative;
+  width: 146px;
+}
+
+.afterblockchat .rectangle-38 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 73px;
+}
+
+.afterblockchat .x6366325_animal_breed {
+  height: 21px;
+  left: 3px;
+  position: absolute;
+  top: 5px;
+  width: 32px;
+}
+
+.afterblockchat .x6366340_animal_breed {
+  height: 28px;
+  left: 37px;
+  position: absolute;
+  top: 5px;
+  width: 33px;
+}
+
+.afterblockchat .rectangle-39 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 72px;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.afterblockchat .question_answer_black_24dp-1 {
+  height: 24px;
+  left: 92px;
+  position: absolute;
+  top: 7px;
+  width: 34px;
+}
+
+.afterblockchat .chat {
+  left: 96px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 26px;
+}
+
+.afterblockchat .text-46 {
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 10px;
+}
+
+.afterblockchat .place-1 {
+  left: 12px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 27px;
+}
+
+.afterblockchat .overlap-group3 {
+  align-self: flex-end;
+  height: 39px;
+  margin-bottom: 1px;
+  margin-left: 17px;
+  position: relative;
+  width: 37px;
+}
+
+.afterblockchat .icon-user {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.afterblockchat .profile {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 21px;
+}

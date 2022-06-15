@@ -1,0 +1,63 @@
+:root { 
+  --black: #000000;
+  --black-2: #000000b2;
+  --turbo: #ffeb00;
+  --viking: #56ccf2;
+  --white: #ffffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 17px;
+  --font-size-s: 15px;
+  --font-size-xl: 25px;
+  --font-size-xs: 13px;
+  --font-size-xxs: 10px;
+ 
+  --font-family-baloo-regular: "Baloo-Regular", Helvetica;
+}
+.baloo-regular-normal-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-baloo-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.baloo-regular-normal-black-10px {
+  color: var(--black);
+  font-family: var(--font-family-baloo-regular);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.baloo-regular-normal-black-17px {
+  color: var(--black);
+  font-family: var(--font-family-baloo-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.baloo-regular-normal-black-15px-2 {
+  color: var(--black-2);
+  font-family: var(--font-family-baloo-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.baloo-regular-normal-turbo-25px {
+  color: var(--turbo);
+  font-family: var(--font-family-baloo-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.baloo-regular-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-baloo-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}

@@ -1,0 +1,779 @@
+/* screen - community-location-yeonsu-searchbar */
+
+input {
+  width: 168px;
+  top: 16px;
+  height: 30px;
+}
+.community-location-yeonsu-searchbar {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 640px;
+  justify-content: center;
+  min-width: 360px;
+  overflow-x: hidden;
+}
+
+.community-location-yeonsu-searchbar .overlap-group {
+  height: 957px;
+  margin-top: 182px;
+  position: relative;
+  width: 362px;
+  z-index: 1;
+}
+
+.community-location-yeonsu-searchbar .rectangle-114 {
+  background-color: var(--white);
+  height: 952px;
+  left: 1px;
+  position: absolute;
+  top: 5px;
+  width: 360px;
+}
+
+.community-location-yeonsu-searchbar .rectangle-115 {
+  background-color: var(--white);
+  height: 123px;
+  left: 1px;
+  position: absolute;
+  top: 740px;
+  width: 360px;
+}
+
+.community-location-yeonsu-searchbar .rectangle-116 {
+  background-color: var(--white);
+  height: 29px;
+  left: 0;
+  position: absolute;
+  top: 834px;
+  width: 362px;
+}
+
+.community-location-yeonsu-searchbar .chat_bubble_outline_black_24dp-2 {
+  height: 21px;
+  left: 332px;
+  position: absolute;
+  top: 840px;
+  width: 24px;
+}
+
+.community-location-yeonsu-searchbar .icon-heart {
+  height: 21px;
+  left: 300px;
+  position: absolute;
+  top: 840px;
+  width: 24px;
+}
+
+.community-location-yeonsu-searchbar .central-park-is-a-re {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 775px;
+}
+
+.community-location-yeonsu-searchbar .rectangle-115-1 {
+  background-color: var(--white);
+  height: 133px;
+  left: 1px;
+  position: absolute;
+  top: 607px;
+  width: 360px;
+}
+
+.community-location-yeonsu-searchbar .rectangle-116-1 {
+  background-color: var(--white);
+  height: 31px;
+  left: 0;
+  position: absolute;
+  top: 709px;
+  width: 362px;
+}
+
+.community-location-yeonsu-searchbar .chat_bubble_outline_black_24dp-2-1 {
+  height: 22px;
+  left: 332px;
+  position: absolute;
+  top: 715px;
+  width: 24px;
+}
+
+.community-location-yeonsu-searchbar .icon-heart-1 {
+  height: 22px;
+  left: 300px;
+  position: absolute;
+  top: 715px;
+  width: 24px;
+}
+
+.community-location-yeonsu-searchbar .central-park-is-a-re-1 {
+  left: 43px;
+  letter-spacing: 0;
+  position: absolute;
+  line-height: normal;
+  top: 645px;
+}
+
+.community-location-yeonsu-searchbar .address {
+  left: 13px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.community-location-yeonsu-searchbar .rectangle-115-2 {
+  background-color: var(--white);
+  height: 150px;
+  left: 1px;
+  position: absolute;
+  top: 457px;
+  width: 360px;
+}
+
+.community-location-yeonsu-searchbar .rectangle-116-2 {
+  background-color: var(--white);
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 572px;
+  width: 362px;
+}
+
+.community-location-yeonsu-searchbar .chat_bubble_outline_black_24dp-2-2 {
+  height: 25px;
+  left: 332px;
+  position: absolute;
+  top: 579px;
+  width: 24px;
+}
+
+.community-location-yeonsu-searchbar .icon-heart-2 {
+  height: 25px;
+  left: 300px;
+  position: absolute;
+  top: 579px;
+  width: 24px;
+}
+
+.community-location-yeonsu-searchbar .central-park-is-a-re-2 {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 500px;
+}
+
+.community-location-yeonsu-searchbar .rectangle-115-3 {
+  background-color: var(--white);
+  height: 150px;
+  left: 1px;
+  position: absolute;
+  top: 306px;
+  width: 360px;
+}
+
+.community-location-yeonsu-searchbar .rectangle-116-3 {
+  background-color: var(--white);
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 422px;
+  width: 362px;
+}
+
+.community-location-yeonsu-searchbar .chat_bubble_outline_black_24dp-2-3 {
+  height: 25px;
+  left: 332px;
+  position: absolute;
+  top: 428px;
+  width: 24px;
+}
+
+.community-location-yeonsu-searchbar .icon-heart-3 {
+  height: 25px;
+  left: 300px;
+  position: absolute;
+  top: 428px;
+  width: 24px;
+}
+
+.community-location-yeonsu-searchbar .central-park-is-a-re-3 {
+  left: 43px;
+  line-height: normal;
+  letter-spacing: 0;
+  position: absolute;
+  top: 350px;
+}
+
+.community-location-yeonsu-searchbar .rectangle-31 {
+  background-color: var(--mercury);
+  border-radius: 20px;
+  height: 20px;
+  left: 10px;
+  position: absolute;
+  top: 314px;
+  width: 78px;
+}
+
+.community-location-yeonsu-searchbar .hospital {
+  left: 22px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 317px;
+  width: 80px;
+}
+
+.community-location-yeonsu-searchbar .rectangle-33 {
+  background-color: var(--white);
+  height: 154px;
+  left: 0;
+  position: absolute;
+  top: 153px;
+  width: 362px;
+}
+
+.community-location-yeonsu-searchbar .rectangle-34 {
+  background-color: var(--white);
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 275px;
+  width: 362px;
+}
+
+.community-location-yeonsu-searchbar .chat_bubble_outline_black_24dp-2-4 {
+  height: 23px;
+  left: 332px;
+  position: absolute;
+  top: 280px;
+  width: 24px;
+}
+
+.community-location-yeonsu-searchbar .icon-heart-4 {
+  height: 23px;
+  left: 300px;
+  position: absolute;
+  top: 280px;
+  width: 24px;
+}
+
+.community-location-yeonsu-searchbar .baronado-dog-cafe-is {
+  left: 43px;
+  letter-spacing: 0;
+  font-size: 13px;
+  position: absolute;
+  line-height: normal;
+  font-weight: 400;
+  top: 197px;
+}
+
+.community-location-yeonsu-searchbar .rectangle-31-1 {
+  background-color: var(--mercury);
+  border-radius: 20px;
+  height: 20px;
+  left: 10px;
+  position: absolute;
+  top: 162px;
+  width: 78px;
+}
+
+.community-location-yeonsu-searchbar .hospital-1 {
+  left: 22px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 165px;
+  width: 80px;
+}
+
+.community-location-yeonsu-searchbar .rectangle-30 {
+  background-color: var(--white);
+  height: 155px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 362px;
+}
+
+.community-location-yeonsu-searchbar .where-is-a-24-hour-hospital-nearby {
+  --z-index: 1;
+    background-color: transparent;
+    color: #000000;
+    font-family: 'Cairo', Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    height: 18.27%;
+    left: 15.83%;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    top: 59px;
+    width: 65.28%;
+}
+
+.community-location-yeonsu-searchbar .rectangle-32 {
+  background-color: var(--white);
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 123px;
+  width: 362px;
+}
+
+.community-location-yeonsu-searchbar .chat_bubble_outline_black_24dp-1 {
+  height: 23px;
+  left: 332px;
+  position: absolute;
+  top: 128px;
+  width: 24px;
+}
+
+.community-location-yeonsu-searchbar .icon-heart-5 {
+  height: 23px;
+  left: 298px;
+  position: absolute;
+  top: 128px;
+  width: 24px;
+}
+
+.community-location-yeonsu-searchbar .rectangle-31-2 {
+  background-color: var(--mercury);
+  border-radius: 20px;
+  height: 20px;
+  left: 10px;
+  position: absolute;
+  top: 19px;
+  width: 78px;
+}
+
+.community-location-yeonsu-searchbar .address-1 {
+  left: 22px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 22px;
+  width: 80px;
+}
+
+.community-location-yeonsu-searchbar .what-snack-does-your {
+  left: 56px;
+  letter-spacing: 0;
+  position: absolute;
+  line-height: normal;
+  top: 500px;
+  width: 269px;
+}
+
+.community-location-yeonsu-searchbar .rectangle-31-3 {
+  background-color: var(--mercury);
+  border-radius: 20px;
+  height: 19px;
+  left: 10px;
+  position: absolute;
+  top: 465px;
+  width: 78px;
+}
+
+.community-location-yeonsu-searchbar .hospital-2 {
+  left: 22px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 468px;
+  width: 80px;
+}
+
+.community-location-yeonsu-searchbar .rectangle-31-4 {
+  background-color: var(--mercury);
+  border-radius: 20px;
+  height: 19px;
+  left: 10px;
+  position: absolute;
+  top: 615px;
+  width: 78px;
+}
+
+.community-location-yeonsu-searchbar .hospital-3 {
+  left: 22px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 618px;
+  width: 80px;
+}
+
+.community-location-yeonsu-searchbar .rectangle-31-5 {
+  background-color: var(--mercury);
+  border-radius: 20px;
+  height: 19px;
+  left: 10px;
+  position: absolute;
+  top: 748px;
+  width: 78px;
+}
+
+.community-location-yeonsu-searchbar .hospital-4 {
+  left: 22px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 751px;
+  width: 80px;
+}
+
+.community-location-yeonsu-searchbar .rectangle-36 {
+  background-color: var(--viking);
+  height: 41px;
+  left: -1px;
+  position: fixed;
+  top: 600px;
+  width: 71px;
+  z-index: 6;
+}
+
+.community-location-yeonsu-searchbar .rectangle-23 {
+  background-color: #fafafa;
+  height: 125px;
+  left: -1px;
+  position: fixed;
+  top: 61px;
+  width: 362px;
+  z-index: 21;
+}
+
+.community-location-yeonsu-searchbar .rectangle-35 {
+  background-color: var(--viking);
+  height: 39px;
+  left: 0;
+  position: fixed;
+  top: 601px;
+  width: 360px;
+  z-index: 4;
+}
+
+.community-location-yeonsu-searchbar .rectangle-21 {
+  background-color: var(--viking);
+  height: 62px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 360px;
+  z-index: 34;
+}
+
+.community-location-yeonsu-searchbar .rectangle-29 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 9px;
+  position: fixed;
+  top: 133px;
+  width: 108px;
+  z-index: 22;
+}
+
+.community-location-yeonsu-searchbar .rectangle-24 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 9px;
+  position: fixed;
+  top: 77px;
+  width: 108px;
+  z-index: 32;
+}
+
+.community-location-yeonsu-searchbar .yeonsu {
+  color: var(--black);
+  font-family: var(--font-family-baloo-regular);
+  font-size: 25px;
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 0;
+  position: fixed;
+  top: 18px;
+  z-index: 38;
+}
+
+.community-location-yeonsu-searchbar .icon-home {
+  height: 28px;
+  left: 19px;
+  position: fixed;
+  top: 605px;
+  width: 32px;
+  z-index: 7;
+}
+
+.community-location-yeonsu-searchbar .place {
+  left: 19px;
+  letter-spacing: 0;
+  position: fixed;
+  top: 626px;
+  z-index: 8;
+}
+
+.community-location-yeonsu-searchbar .address-2 {
+  left: 21px;
+  letter-spacing: 0;
+  position: fixed;
+  top: 83px;
+  z-index: 33;
+}
+
+.community-location-yeonsu-searchbar .address-3 {
+  left: 37px;
+  letter-spacing: 0;
+  position: fixed;
+  top: 140px;
+  z-index: 23;
+}
+
+.community-location-yeonsu-searchbar .rectangle-37 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 68px;
+  position: fixed;
+  top: 600px;
+  width: 77px;
+  z-index: 5;
+}
+
+.community-location-yeonsu-searchbar .community {
+  left: 74px;
+  letter-spacing: 0;
+  position: fixed;
+  top: 625px;
+  z-index: 10;
+}
+
+.community-location-yeonsu-searchbar .groups_black_24dp-1 {
+  height: 32px;
+  left: 86px;
+  position: fixed;
+  top: 601px;
+  width: 36px;
+  z-index: 9;
+}
+
+.community-location-yeonsu-searchbar .expand_more_black_24dp-1 {
+  height: 24px;
+  left: 105px;
+  position: fixed;
+  top: 19px;
+  width: 24px;
+  z-index: 37;
+}
+
+.community-location-yeonsu-searchbar .rectangle-26 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 126px;
+  position: fixed;
+  top: 133px;
+  width: 108px;
+  z-index: 24;
+}
+
+.community-location-yeonsu-searchbar .rectangle-28 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 126px;
+  position: fixed;
+  top: 77px;
+  width: 108px;
+  z-index: 30;
+}
+
+.community-location-yeonsu-searchbar .rectangle-38 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 142px;
+  position: fixed;
+  top: 600px;
+  width: 73px;
+  z-index: 11;
+}
+
+.community-location-yeonsu-searchbar .address-4 {
+  left: 144px;
+  letter-spacing: 0;
+  position: fixed;
+  top: 83px;
+  z-index: 31;
+}
+
+.community-location-yeonsu-searchbar .x6366325_animal_breed {
+  height: 21px;
+  left: 145px;
+  position: fixed;
+  top: 605px;
+  width: 32px;
+  z-index: 12;
+}
+
+.community-location-yeonsu-searchbar .place-1 {
+  color: var(--black);
+  font-family: var(--font-family-cairo);
+  font-size: 12px;
+  font-weight: 700;
+  left: 154px;
+  letter-spacing: 0;
+  position: fixed;
+  top: 626px;
+  z-index: 20;
+}
+
+.community-location-yeonsu-searchbar .address-5 {
+  left: 154px;
+  letter-spacing: 0;
+  position: fixed;
+  top: 140px;
+  z-index: 25;
+}
+
+.community-location-yeonsu-searchbar .text-2 {
+  color: var(--black);
+  font-family: var(--font-family-cairo);
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  left: 173px;
+  letter-spacing: 0;
+  position: fixed;
+  top: 607px;
+  z-index: 19;
+}
+
+.community-location-yeonsu-searchbar .x6366340_animal_breed {
+  height: 28px;
+  left: 179px;
+  position: fixed;
+  top: 605px;
+  width: 33px;
+  z-index: 13;
+}
+
+.community-location-yeonsu-searchbar .rectangle-22 {
+  background-color: var(--white);
+  height: 30px;
+  left: 180px;
+  position: fixed;
+  top: 16px;
+  width: 168px;
+  z-index: 35;
+}
+
+.community-location-yeonsu-searchbar .rectangle-39 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 214px;
+  position: fixed;
+  top: 600px;
+  width: 74px;
+  z-index: 14;
+}
+
+.community-location-yeonsu-searchbar .question_answer_black_24dp-1 {
+  height: 24px;
+  left: 234px;
+  position: fixed;
+  top: 607px;
+  width: 34px;
+  z-index: 15;
+}
+
+.community-location-yeonsu-searchbar .chat {
+  left: 238px;
+  letter-spacing: 0;
+  position: fixed;
+  top: 626px;
+  z-index: 16;
+}
+
+.community-location-yeonsu-searchbar .rectangle-25 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 243px;
+  position: fixed;
+  top: 133px;
+  width: 108px;
+  z-index: 26;
+}
+
+.community-location-yeonsu-searchbar .rectangle-27 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 243px;
+  position: fixed;
+  top: 77px;
+  width: 108px;
+  z-index: 28;
+}
+
+.community-location-yeonsu-searchbar .address-6 {
+  left: 260px;
+  letter-spacing: 0;
+  position: fixed;
+  top: 140px;
+  z-index: 27;
+}
+
+.community-location-yeonsu-searchbar .address-7 {
+  left: 262px;
+  letter-spacing: 0;
+  position: fixed;
+  top: 83px;
+  z-index: 29;
+}
+
+.community-location-yeonsu-searchbar .icon-user {
+  height: 24px;
+  left: 305px;
+  position: fixed;
+  top: 605px;
+  width: 37px;
+  z-index: 17;
+}
+
+.community-location-yeonsu-searchbar .profile {
+  left: 305px;
+  letter-spacing: 0;
+  position: fixed;
+  top: 625px;
+  z-index: 18;
+}
+
+.community-location-yeonsu-searchbar .ellipse-27 {
+  background-color: var(--white);
+  border: 1px solid var(--black);
+  border-radius: 22.5px;
+  height: 45px;
+  left: 310px;
+  position: fixed;
+  top: 550px;
+  width: 45px;
+  z-index: 2;
+}
+
+.community-location-yeonsu-searchbar .icon-search {
+  height: 32px;
+  left: 314px;
+  position: fixed;
+  top: 16px;
+  width: 33px;
+  z-index: 36;
+}
+
+.community-location-yeonsu-searchbar .edit_fill0_wght400_grad0_opsz48-1 {
+  height: 33px;
+  left: 316px;
+  position: fixed;
+  top: 556px;
+  width: 33px;
+  z-index: 3;
+}

@@ -1,0 +1,434 @@
+/* screen - community-create-popup-1 */
+
+.community-create-popup-1 {
+  background-color: #ffffff;
+  height: 100vh;
+  margin: 0px;
+  min-height: 640px;
+  min-width: 360px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.community-create-popup-1 .rectangle-46-C61RwL {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 516px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 62px;
+  width: 360px;
+}
+
+.community-create-popup-1 .rectangle-21-C61RwL {
+  --z-index: 1;
+  background-color: #56ccf2;
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 360px;
+}
+
+.community-create-popup-1 .rectangle-45-C61RwL {
+  --z-index: 2;
+  background-color: #56ccf2;
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 578px;
+  width: 360px;
+}
+
+.community-create-popup-1 .x1-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Candal', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+    left: 50px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    top: 610px;
+    width: 3%;
+}
+
+.community-create-popup-1 .image_black_24dp-1-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/image-black-24dp-1@2x.png);
+  background-size: 100% 100%;
+  height: 40px;
+  left: 10px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 589px;
+  width: 44px;
+}
+
+.community-create-popup-1 .close_black_24dp-1-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/close-black-24dp-1@2x.png);
+  background-size: 100% 100%;
+  height: 39px;
+  left: 14px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 12px;
+  width: 37px;
+}
+
+.community-create-popup-1 .q-a-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 151px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  width: auto;
+}
+
+.community-create-popup-1 .rectangle-44-C61RwL {
+  --z-index: 7;
+  background-color: #56ccf2;
+  height: 62px;
+  left: 272px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 88px;
+}
+
+.community-create-popup-1 .submit-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 284px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  width: auto;
+}
+
+.community-create-popup-1 .x-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cabin', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 83px;
+  width: auto;
+}
+
+.community-create-popup-1 .rectangle-56-C61RwL {
+  --z-index: 10;
+  background-color: #fafafa;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px transparent;
+  height: 174px;
+  left: 43px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 188px;
+  width: 264px;
+border: 1px solid;box-shadow: 0px 4px 4px #00000040;}
+
+.community-create-popup-1 .are-you-sure-if-you-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 71px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 212px;
+  width: auto;
+}
+
+.community-create-popup-1 .rectangle-57-C61RwL {
+  --z-index: 12;
+  background-color: #fafafa;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px transparent;
+  height: 40px;
+  left: 45px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 320px;
+  width: 255px;
+}
+
+.community-create-popup-1 .no-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 223px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 322px;
+  width: auto;
+}
+
+.community-create-popup-1 .yes-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 89px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 323px;
+  width: auto;
+}
+/* screen - community-1create */
+
+.community-1create {
+  background-color: #ffffff;
+  height: 100vh;
+  margin: 0px;
+  min-height: 640px;
+  min-width: 360px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.community-1create .rectangle-46-C61RwL {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 516px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 62px;
+  width: 360px;
+}
+
+.community-1create .rectangle-21-C61RwL {
+  --z-index: 1;
+  background-color: #56ccf2;
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 360px;
+}
+
+.community-1create .rectangle-45-C61RwL {
+  --z-index: 2;
+  background-color: #56ccf2;
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 578px;
+  width: 360px;
+}
+
+.community-1create .x1-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Candal', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+    left: 50px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    top: 610px;
+    width: 3%;
+}
+
+.community-1create .image_black_24dp-1-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/image-black-24dp-1@2x.png);
+  background-size: 100% 100%;
+  height: 40px;
+  left: 10px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 589px;
+  width: 44px;
+}
+
+.community-1create .close_black_24dp-1-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/close-black-24dp-1@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 39px;
+  left: 14px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 12px;
+  width: 37px;
+}
+
+.community-1create .q-a-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 151px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  width: auto;
+}
+
+.community-1create .rectangle-44-C61RwL {
+  --z-index: 7;
+  background-color: #56ccf2;
+  height: 62px;
+  left: 272px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 88px;
+}
+
+.community-1create .submit-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 284px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  width: auto;
+}
+
+.community-1create .x-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cabin', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 83px;
+  width: auto;
+}

@@ -1,0 +1,67 @@
+/* screen - community-image-comment */
+
+.community-image-comment {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 640px;
+  min-width: 360px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.community-image-comment .component-115-C61RwL {
+  background-color: transparent;
+  height: 640px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 360px;
+}
+
+.community-image-comment .rectangle-58-Omyf9s {
+  background-color: var(--mist-gray);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-image-comment .rectangle-47-Omyf9s {
+  background-color: var(--mist-gray);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-image-comment .kakao-talk_-photo_2022-04-15-19-02-53-1-Omyf9s {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-image-comment .x2-Omyf9s {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24.06%;
+  left: 5.28%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 57.50%;
+  width: 43.89%;
+}

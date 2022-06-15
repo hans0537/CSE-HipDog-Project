@@ -1,0 +1,414 @@
+/* screen - reporting-user */
+
+.reporting-user {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.reporting-user .overlap-group6 {
+  height: 194px;
+  position: relative;
+  width: 362px;
+}
+
+.reporting-user .rectangle-30 {
+  background-color: var(--alabaster);
+  height: 133px;
+  left: 0;
+  position: absolute;
+  top: 61px;
+  width: 362px;
+}
+
+.reporting-user .rectangle-21 {
+  background-color: var(--viking);
+  height: 62px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.reporting-user .arrow_back_black_24dp-1 {
+  cursor: pointer;
+  height: 24px;
+  left: 1px;
+  position: absolute;
+  top: 21px;
+  width: 46px;
+}
+
+.reporting-user .hip-dog {
+  -webkit-text-stroke: 1px var(--viking);
+  left: 137px;
+  letter-spacing: 0;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 17px;
+  width: 86px;
+}
+
+.reporting-user .ellipse-21 {
+  height: 100px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 72px;
+  width: 100px;
+}
+
+.reporting-user .brain {
+  left: 70px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 175px;
+  width: 51px;
+}
+
+.reporting-user .reporting {
+  left: 180px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 72px;
+  width: 138px;
+}
+
+.reporting-user .icon-caution {
+  height: 80px;
+  left: 200px;
+  position: absolute;
+  top: 105px;
+  width: 80px;
+}
+
+.reporting-user .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 27px;
+  margin-left: 14.0px;
+  margin-top: 13px;
+  min-width: 328px;
+}
+
+.reporting-user .vector {
+  cursor: pointer;
+  height: 20px;
+  margin-top: 3.0px;
+  width: 20px;
+}
+
+.reporting-user .violent-language-or-behavior {
+  letter-spacing: 0;
+  margin-left: 13px;
+  min-height: 27px;
+  width: 295px;
+  padding-top: 4px;
+}
+
+.reporting-user .flex-row {
+  align-items: center;
+  display: flex;
+  height: 27px;
+  margin-left: 14.0px;
+  margin-top: 10px;
+  min-width: 328px;
+}
+
+.reporting-user .vector-1 {
+  height: 20px;
+  margin-top: 3.0px;
+  width: 20px;
+}
+
+.reporting-user .fake-profile {
+  letter-spacing: 0;
+  margin-left: 13px;
+  min-height: 27px;
+  width: 295px;
+  padding-top: 4px;
+}
+
+.reporting-user .flex-row-2 {
+  align-items: center;
+  display: flex;
+  height: 27px;
+  margin-left: 14.0px;
+  margin-top: 7px;
+  min-width: 328px;
+}
+
+.reporting-user .spam-advertising {
+  letter-spacing: 0;
+  margin-left: 13px;
+  min-height: 27px;
+  width: 295px;
+  padding-top: 4px;
+}
+
+.reporting-user .bad-manners {
+  letter-spacing: 0;
+  margin-left: 13px;
+  min-height: 27px;
+  width: 295px;
+  padding-top: 3px;
+}
+
+.reporting-user .break-appoinment-with-no-reasons {
+  letter-spacing: 0;
+  margin-left: 13px;
+  min-height: 27px;
+  width: 295px;
+  padding-top: 17px;
+}
+
+.reporting-user .flex-row-3 {
+  align-items: center;
+  display: flex;
+  height: 27px;
+  margin-left: 14.0px;
+  margin-top: 40px;
+  min-width: 328px;
+}
+
+.reporting-user .others {
+  letter-spacing: 0;
+  margin-left: 13px;
+  min-height: 27px;
+  width: 295px;
+  padding-top: 4px;
+}
+
+.reporting-user .rectangle-81 {
+  background-color: #ededed;
+  border-radius: 15px;
+  height: 100px;
+  margin-right: 1.0px;
+  margin-top: 1px;
+  width: 261px;
+}
+
+.reporting-user .overlap-group7 {
+  align-self: flex-end;
+  height: 24px;
+  margin-right: 11px;
+  margin-top: 16px;
+  position: relative;
+  width: 97px;
+}
+
+.reporting-user .rectangle-82 {
+  background-color: #ededed;
+  border-radius: 15px;
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 84px;
+}
+
+.reporting-user .submit {
+  left: 19px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 5px;
+  width: 79px;
+}
+
+.reporting-user .component-container {
+  height: 44px;
+  margin-top: 14px;
+  position: relative;
+  width: 360px;
+}
+
+.reporting-user .component-5 {
+  align-items: flex-start;
+  background-color: var(--viking);
+  display: flex;
+  height: 39px;
+  left: 0;
+  min-width: 360px;
+  position: absolute;
+  top: 0;
+}
+
+.reporting-user .overlap-group {
+  height: 41px;
+  margin-left: -1px;
+  margin-top: -1px;
+  position: relative;
+  width: 146px;
+}
+
+.reporting-user .rectangle-37 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 69px;
+  position: absolute;
+  top: 0;
+  width: 77px;
+}
+
+.reporting-user .rectangle-36 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 71px;
+}
+
+.reporting-user .component-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 44px;
+  left: 20px;
+  min-width: 323px;
+  position: absolute;
+  top: 0;
+}
+
+.reporting-user .overlap-group3 {
+  align-self: flex-end;
+  height: 39px;
+  margin-bottom: 1px;
+  position: relative;
+  width: 33px;
+}
+
+.reporting-user .icon-home {
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.reporting-user .place {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 22px;
+}
+
+.reporting-user .overlap-group2 {
+  height: 41px;
+  margin-left: 22px;
+  position: relative;
+  width: 64px;
+}
+
+.reporting-user .groups_black_24dp-1 {
+  height: 32px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 36px;
+}
+
+.reporting-user .community {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 25px;
+}
+
+.reporting-user .overlap-group1 {
+  height: 44px;
+  margin-left: 4px;
+  margin-top: -1px;
+  position: relative;
+  width: 146px;
+}
+
+.reporting-user .rectangle-38 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 73px;
+}
+
+.reporting-user .x6366325_animal_breed {
+  height: 21px;
+  left: 3px;
+  position: absolute;
+  top: 5px;
+  width: 32px;
+}
+
+.reporting-user .x6366340_animal_breed {
+  height: 28px;
+  left: 37px;
+  position: absolute;
+  top: 5px;
+  width: 33px;
+}
+
+.reporting-user .rectangle-39 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 72px;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.reporting-user .question_answer_black_24dp-1 {
+  height: 24px;
+  left: 92px;
+  position: absolute;
+  top: 7px;
+  width: 34px;
+}
+
+.reporting-user .chat {
+  left: 96px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 26px;
+}
+
+.reporting-user .text-19 {
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 10px;
+}
+
+.reporting-user .place-1 {
+  left: 12px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 27px;
+}
+
+.reporting-user .overlap-group4 {
+  align-self: flex-end;
+  height: 39px;
+  margin-bottom: 1px;
+  margin-left: 17px;
+  position: relative;
+  width: 37px;
+}
+
+.reporting-user .icon-user {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.reporting-user .profile {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 21px;
+}

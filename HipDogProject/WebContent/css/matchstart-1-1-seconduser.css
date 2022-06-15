@@ -1,0 +1,226 @@
+/* screen - matchstart-1-1-seconduser */
+
+.matchstart-1-1-seconduser {
+  align-items: center;
+  background-color: var(--viking);
+  display: flex;
+  flex-direction: column;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.matchstart-1-1-seconduser .overlap-group {
+  align-self: flex-start;
+  height: 64px;
+  margin-left: -1px;
+  margin-top: -1px;
+  position: relative;
+  width: 379px;
+}
+
+.matchstart-1-1-seconduser .hip-dog {
+  -webkit-text-stroke: 1px var(--viking);
+  left: 137px;
+  letter-spacing: 0;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 17px;
+  width: 86px;
+}
+
+.matchstart-1-1-seconduser .rectangle-100 {
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 362px;
+}
+
+.matchstart-1-1-seconduser .icon-close {
+  height: 35px;
+  left: 302px;
+  position: absolute;
+  top: 12px;
+  width: 35px;
+}
+
+.matchstart-1-1-seconduser .stop-matching {
+  left: 281px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 47px;
+  width: 98px;
+}
+
+.matchstart-1-1-seconduser .flex-row {
+  align-items: center;
+  display: flex;
+  height: 124px;
+  margin-left: 1.0px;
+  margin-top: 101px;
+  min-width: 269px;
+}
+
+.matchstart-1-1-seconduser .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 124px;
+  width: 100px;
+}
+
+.matchstart-1-1-seconduser .ellipse-2 {
+  height: 100px;
+  object-fit: cover;
+  width: 100px;
+}
+
+.matchstart-1-1-seconduser .name {
+  letter-spacing: 0;
+  margin-left: 13.0px;
+  margin-top: 3px;
+  min-height: 21px;
+  width: 51px;
+}
+
+.matchstart-1-1-seconduser .pets_black_24dp-2 {
+  height: 36px;
+  margin-bottom: 12.0px;
+  margin-left: 16px;
+  width: 36px;
+}
+
+.matchstart-1-1-seconduser .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 17px;
+  min-height: 124px;
+  width: 100px;
+}
+
+.matchstart-1-1-seconduser .thor {
+  letter-spacing: 0;
+  margin-left: 12.0px;
+  margin-top: 3px;
+  min-height: 21px;
+  width: 38px;
+}
+
+.matchstart-1-1-seconduser .overlap-group-container {
+  height: 200px;
+  margin-top: 27px;
+  position: relative;
+  width: 298px;
+}
+
+.matchstart-1-1-seconduser .overlap-group1 {
+  height: 109px;
+  left: 0;
+  position: absolute;
+  top: 91px;
+  width: 92px;
+}
+
+.matchstart-1-1-seconduser .trip_origin_fill0_wght400_grad0_opsz48-1 {
+  height: 92px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 92px;
+}
+
+.matchstart-1-1-seconduser .yes {
+  left: 27px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+  width: 41px;
+}
+
+.matchstart-1-1-seconduser .overlap-group2 {
+  height: 200px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  width: 284px;
+}
+
+.matchstart-1-1-seconduser .place {
+  left: 215px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 174px;
+  width: 41px;
+}
+
+.matchstart-1-1-seconduser .icon-close-1 {
+  height: 95px;
+  left: 189px;
+  position: absolute;
+  top: 88px;
+  width: 95px;
+}
+
+.matchstart-1-1-seconduser .arrow-19 {
+  height: 57px;
+  left: 179px;
+  position: absolute;
+  top: 32px;
+  width: 91px;
+}
+
+.matchstart-1-1-seconduser .arrow-20 {
+  height: 57px;
+  left: 0;
+  position: absolute;
+  top: 32px;
+  width: 91px;
+}
+
+.matchstart-1-1-seconduser .swipe-left-or-right-for-your-choice {
+  color: #000000b2;
+  font-family: var(--font-family-baloo-regular);
+  font-size: var(--font-size-xxxxxl);
+  font-weight: 400;
+  left: 34px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  line-height: 27px;
+  width: 204px;
+}
+
+.matchstart-1-1-seconduser .overlap-group3 {
+  height: 54px;
+  margin-right: 1.0px;
+  margin-top: 16px;
+  position: relative;
+  width: 137px;
+}
+
+.matchstart-1-1-seconduser .rectangle-67 {
+  background-color: var(--yellow-sunshine);
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 137px;
+}
+
+.matchstart-1-1-seconduser .view-user-profile {
+  cursor: pointer;
+  left: 9px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: 119px;
+  color: black;
+}

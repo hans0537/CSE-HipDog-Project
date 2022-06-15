@@ -1,0 +1,78 @@
+/* screen - community-image-post */
+
+.community-image-post {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 640px;
+  min-width: 360px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.community-image-post .component-112-C61RwL {
+  background-color: transparent;
+  height: 640px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 360px;
+}
+
+.community-image-post .rectangle-58-HmOfF2 {
+  background-color: var(--mist-gray);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-image-post .rectangle-47-HmOfF2 {
+  background-color: var(--mist-gray);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-image-post .kakao-talk_-photo_2022-04-15-19-02-53-1-HmOfF2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-image-post .dog-2-HmOfF2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24.69%;
+  left: 51.39%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 23.91%;
+  width: 43.06%;
+}
+
+.community-image-post .emoji-2-HmOfF2 {
+  background-color: transparent;
+  height: 24.38%;
+  left: 5.28%;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 24.06%;
+  width: 44.17%;
+}

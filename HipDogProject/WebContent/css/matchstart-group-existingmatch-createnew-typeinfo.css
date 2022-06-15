@@ -1,0 +1,258 @@
+/* screen - matchstart-group-existingmatch-createnew-typeinfo */
+
+.matchstart-group-existingmatch-createnew-typeinfo {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .overlap-group {
+  height: 641px;
+  margin-left: -1px;
+  position: relative;
+  width: 491px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .rectangle-21 {
+  background-color: var(--viking);
+  height: 62px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .create-new-group-match {
+  left: 80px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 21px;
+  width: 239px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .rectangle-23 {
+  background-color: var(--alabaster);
+  height: 580px;
+  left: 0;
+  position: absolute;
+  top: 61px;
+  width: 362px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .x1 {
+  background-image: url(../img/----------1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 203px;
+  left: 1px;
+  position: absolute;
+  top: 437px;
+  width: 360px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .pets_black_24dp-8 {
+  height: 25px;
+  left: 6px;
+  position: absolute;
+  top: 322px;
+  width: 25px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .rectangle-24 {
+  background-color: var(--alabaster);
+  height: 245px;
+  left: 0;
+  position: absolute;
+  top: 61px;
+  width: 362px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .pets_black_24dp-7 {
+  height: 25px;
+  left: 4px;
+  position: absolute;
+  top: 79px;
+  width: 25px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .rectangle-1 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 42px;
+  left: 67px;
+  position: absolute;
+  top: 223px;
+  width: 108px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .play {
+  left: 112px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 238px;
+  width: 77px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .vector {
+  height: 15px;
+  left: 78px;
+  position: absolute;
+  top: 238px;
+  width: 15px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .rectangle-1-1 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 42px;
+  left: 186px;
+  position: absolute;
+  top: 223px;
+  width: 108px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .training {
+  left: 222px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 238px;
+  width: 77px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .vector-1 {
+  height: 15px;
+  left: 196px;
+  position: absolute;
+  top: 238px;
+  width: 15px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .rectangle-1-2 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 42px;
+  left: 9px;
+  position: absolute;
+  top: 140px;
+  width: 108px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .walk {
+  left: 32px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 153px;
+  width: 77px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .vector-2 {
+  height: 15px;
+  left: 20px;
+  position: absolute;
+  top: 152px;
+  width: 15px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .rectangle-1-3 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 42px;
+  left: 128px;
+  position: absolute;
+  top: 140px;
+  width: 108px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .travel {
+  left: 166px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 153px;
+  width: 77px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .vector-3 {
+  height: 15px;
+  left: 138px;
+  position: absolute;
+  top: 152px;
+  width: 15px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .rectangle-1-4 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 42px;
+  left: 247px;
+  position: absolute;
+  top: 140px;
+  width: 108px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .exercise {
+  left: 278px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 153px;
+  width: 77px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .vector-4 {
+  height: 15px;
+  left: 256px;
+  position: absolute;
+  top: 152px;
+  width: 15px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .icon-check_mark {
+  height: 12px;
+  left: 23px;
+  position: absolute;
+  top: 152px;
+  width: 17px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .icon-close {
+  height: 35px;
+  left: 9px;
+  position: absolute;
+  top: 13px;
+  width: 35px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .select-the-category-for-matching {
+  left: 36px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 85px;
+  width: 291px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .type-the-basic-infor {
+  left: 36px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 329px;
+  width: 342px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .line-22 {
+  height: 1px;
+  left: 11px;
+  position: absolute;
+  top: 400px;
+  width: 340px;
+}
+
+.matchstart-group-existingmatch-createnew-typeinfo .information-must-inc {
+  left: 11px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 380px;
+  width: 480px;
+}

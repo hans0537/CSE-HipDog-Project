@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<style>
+  input[type="checkbox"] {
+    width: 15px;
+    height: 15px;
+    border: 2px solid black;
+    border-radius: 20%;
+    appearance: none;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+
+  input[type="checkbox"]::after {
+    border: solid #fff;
+    border-width: 0 2px 2px 0;
+    content: '';
+    display: none;
+    height: 40%;
+    left: 40%;
+    position: relative;
+    top: 20%;
+    transform: rotate(45deg);
+    width: 15%;
+  }
+  input[type="checkbox"]:checked {
+    background: #56ccf2;
+  }
+  input[type="checkbox"]:checked::after {
+    display: block;
+  }
+</style>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/matchstart-group-existingmatch-createnew-typeinfo.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="matchstart-group-existingmatch-createnew-typeinfo" />
+    <div class="container-center-horizontal">
+      <div class="matchstart-group-existingmatch-createnew-typeinfo screen">
+        <div class="overlap-group">
+          <div class="rectangle-21"></div>
+          <div class="create-new-group-match baloo-regular-normal-black-18px">Create new group match</div>
+          <div class="rectangle-23 border-1px-mercury"></div>
+          <a href="matchstart-group-existingmatch-createnew-information-submit.html"> <div class="x1"></div></a
+          ><img class="pets_black_24dp-8" src="img/pets-black-24dp-3@2x.png" />
+          <div class="rectangle-24 border-1px-mercury"></div>
+          <img class="pets_black_24dp-7" src="img/pets-black-24dp-3@2x.png" />
+
+          <div class="rectangle-1"></div>
+          <div class="play baloo-regular-normal-black-15px">Play</div>
+          <!--img class="vector" src="img/vector-4@2x.png" /> -->
+          <p class="vector">
+            <label>
+              <input type="checkbox" name="play" value="play" />
+            </label>
+          </p>
+          <div class="rectangle-1-1"></div>
+          <div class="training baloo-regular-normal-black-15px">Training</div>
+          <!--img class="vector-1" src="img/vector-4@2x.png" /> -->
+          <p class="vector-1">
+            <label>
+              <input type="checkbox" name="training" value="training" />
+            </label>
+          </p>
+          <div class="rectangle-1-2"></div>
+          <p class="walk baloo-regular-normal-black-15px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Walk</p>
+          <!--img class="vector-2" src="img/vector-4@2x.png" /> -->
+          <p class="vector-2">
+            <label>
+              <input type="checkbox" name="walk" value="walk" checked/>
+            </label>
+          </p>
+          <div class="rectangle-1-3"></div>
+          <div class="travel baloo-regular-normal-black-15px">Travel</div>
+          <!--img class="vector-3" src="img/vector-4@2x.png" /> -->
+          <p class="vector-3">
+            <label>
+              <input type="checkbox" name="travel" value="travel" />
+            </label>
+          </p>
+          <div class="rectangle-1-4"></div>
+          <div class="exercise baloo-regular-normal-black-15px">Exercise</div>
+          <!--img class="vector-4" src="img/vector-4@2x.png" /> -->
+          <p class="vector-4">
+            <label>
+              <input type="checkbox" name="exercise" value="exercise" />
+            </label>
+          </p>
+
+          <img class="icon-close" src="img/close-fill0-wght400-grad0-opsz48--2--1@2x.png" onclick="location.href='matchstart-group-existingmatch.html'" />
+          <div class="select-the-category-for-matching baloo-regular-normal-black-17px">
+            Select the category for matching
+          </div>
+          <p class="type-the-basic-infor baloo-regular-normal-black-16px">Type the basic information about matching</p>
+          <img class="line-22" src="img/line-22@2x.png" />
+          <p class="information-must-inc baloo-regular-normal-black-13px-2">
+            Information must include the meeting date and location.
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

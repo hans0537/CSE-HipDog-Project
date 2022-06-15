@@ -1,0 +1,3165 @@
+/* screen - community-location-yeonsu-1 */
+
+.community-location-yeonsu-1 {
+  background-color: #ffffff;
+  height: 100vh;
+  margin: 0px;
+  min-height: 640px;
+  min-width: 360px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.community-location-yeonsu-1 .component-21-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 956px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 183px;
+  width: 360px;
+}
+
+.community-location-yeonsu-1 .rectangle-114-U6xerV {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 99.55%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0.45%;
+  width: 100%;
+}
+
+.community-location-yeonsu-1 .component-22-U6xerV {
+  --z-index: 1;
+  background-color: transparent;
+  height: 12.87%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 77.30%;
+  width: 100%;
+}
+
+.community-location-yeonsu-1 .rectangle-115-zMOVXH {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-location-yeonsu-1 .rectangle-116-zMOVXH {
+  --z-index: 1;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  height: 23.30%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 76.81%;
+  width: 100.56%;
+}
+
+.community-location-yeonsu-1 .chat_bubble_outline_black_24dp-2-zMOVXH {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/chat-bubble-outline-black-24dp-2-11@2x.png);
+  background-size: 100% 100%;
+  height: 17.07%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 80.97%;
+  width: 6.67%;
+}
+
+.community-location-yeonsu-1 .icon-heart-zMOVXH {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/favorite-border-black-24dp-2-11@2x.png);
+  background-size: 100% 100%;
+  height: 17.07%;
+  left: 83.06%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 80.97%;
+  width: 6.67%;
+}
+
+.community-location-yeonsu-1 .central-park-is-a-re-zMOVXH {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: 39.02%;
+  left: 11.67%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 29.37%;
+  width: 82.22%;
+}
+
+.community-location-yeonsu-1 .component-21-U6xerV {
+  --z-index: 2;
+  background-color: transparent;
+  height: 13.91%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 63.39%;
+  width: 100%;
+}
+
+.community-location-yeonsu-1 .rectangle-115-6g9Fqq {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-location-yeonsu-1 .rectangle-116-6g9Fqq {
+  --z-index: 1;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  height: 23.18%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 76.87%;
+  width: 100.56%;
+}
+
+.community-location-yeonsu-1 .chat_bubble_outline_black_24dp-2-6g9Fqq {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/chat-bubble-outline-black-24dp-2-12@2x.png);
+  background-size: 100% 100%;
+  height: 17.29%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 80.86%;
+  width: 6.67%;
+}
+
+.community-location-yeonsu-1 .icon-heart-6g9Fqq {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/favorite-border-black-24dp-2-12@2x.png);
+  background-size: 100% 100%;
+  height: 17.29%;
+  left: 83.06%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 80.86%;
+  width: 6.67%;
+}
+
+.community-location-yeonsu-1 .central-park-is-a-re-6g9Fqq {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 33.08%;
+  left: 11.67%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 29.37%;
+  width: 76.67%;
+}
+
+.community-location-yeonsu-1 .q-a-U6xerV {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 2.28%;
+  left: 3.33%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 22.22%;
+}
+
+.community-location-yeonsu-1 .component-19-U6xerV {
+  --z-index: 4;
+  background-color: transparent;
+  height: 15.72%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 47.67%;
+  width: 100%;
+}
+
+.community-location-yeonsu-1 .rectangle-115-piS2MB {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-location-yeonsu-1 .rectangle-116-piS2MB {
+  --z-index: 1;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  height: 23.01%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 76.96%;
+  width: 100.56%;
+}
+
+.community-location-yeonsu-1 .chat_bubble_outline_black_24dp-2-piS2MB {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/chat-bubble-outline-black-24dp-2-13@2x.png);
+  background-size: 100% 100%;
+  height: 16.97%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 81.03%;
+  width: 6.67%;
+}
+
+.community-location-yeonsu-1 .icon-heart-piS2MB {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/favorite-border-black-24dp-2-13@2x.png);
+  background-size: 100% 100%;
+  height: 16.97%;
+  left: 83.06%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 81.03%;
+  width: 6.67%;
+}
+
+.community-location-yeonsu-1 .central-park-is-a-re-piS2MB {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: 15.97%;
+  left: 11.67%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 29.37%;
+  width: 0px;
+}
+
+.community-location-yeonsu-1 .dog-cafe-U6xerV {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 2.28%;
+  left: 3.33%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 22.22%;
+}
+
+.community-location-yeonsu-1 .component-18-U6xerV {
+  --z-index: 6;
+  background-color: transparent;
+  height: 15.72%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 31.95%;
+  width: 100%;
+}
+
+.community-location-yeonsu-1 .rectangle-115-CNYEtx {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-location-yeonsu-1 .rectangle-116-CNYEtx {
+  --z-index: 1;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  height: 23.01%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 76.96%;
+  width: 100.56%;
+}
+
+.community-location-yeonsu-1 .chat_bubble_outline_black_24dp-2-CNYEtx {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/chat-bubble-outline-black-24dp-2-14@2x.png);
+  background-size: 100% 100%;
+  height: 17.30%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 80.86%;
+  width: 6.67%;
+}
+
+.community-location-yeonsu-1 .icon-heart-CNYEtx {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/favorite-border-black-24dp-2-14@2x.png);
+  background-size: 100% 100%;
+  height: 17.30%;
+  left: 83.06%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 80.86%;
+  width: 6.67%;
+}
+
+.community-location-yeonsu-1 .central-park-is-a-re-CNYEtx {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: 31.94%;
+  left: 11.67%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 29.37%;
+  width: 74.17%;
+}
+
+.community-location-yeonsu-1 .component-3-U6xerV {
+  --z-index: 7;
+  background-color: transparent;
+  height: 2.38%;
+  left: 2.50%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 32.68%;
+  width: 25.56%;
+}
+
+.community-location-yeonsu-1 .rectangle-31-Gm8kxQ {
+  --z-index: 0;
+  background-color: #e5e5e5;
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.community-location-yeonsu-1 .hospital-Gm8kxQ {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 96.75%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.community-location-yeonsu-1 .component-17-U6xerV {
+  --z-index: 8;
+  background-color: transparent;
+  height: 15.93%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 16.03%;
+  width: 100%;
+}
+
+.community-location-yeonsu-1 .rectangle-33-xoK8sr {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  height: 101.31%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -0.66%;
+  width: 100.56%;
+}
+
+.community-location-yeonsu-1 .rectangle-34-xoK8sr {
+  --z-index: 1;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  height: 21.06%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 79.60%;
+  width: 100.56%;
+}
+
+.community-location-yeonsu-1 .chat_bubble_outline_black_24dp-2-xoK8sr {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/chat-bubble-outline-black-24dp-2-15@2x.png);
+  background-size: 100% 100%;
+  height: 15.76%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 82.56%;
+  width: 6.67%;
+}
+
+.community-location-yeonsu-1 .icon-heart-xoK8sr {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/favorite-border-black-24dp-2-15@2x.png);
+  background-size: 100% 100%;
+  height: 15.76%;
+  left: 83.06%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 82.56%;
+  width: 6.67%;
+}
+
+.community-location-yeonsu-1 .baronado-dog-cafe-is-xoK8sr {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: 47.29%;
+  left: 11.67%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 28.66%;
+  width: 82.22%;
+}
+
+.community-location-yeonsu-1 .component-2-U6xerV {
+  --z-index: 9;
+  background-color: transparent;
+  height: 2.48%;
+  left: 2.50%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 16.75%;
+  width: 25.56%;
+}
+
+.community-location-yeonsu-1 .rectangle-31-dU84Hx {
+  --z-index: 0;
+  background-color: #e5e5e5;
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.community-location-yeonsu-1 .hospital-dU84Hx {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 92.72%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.community-location-yeonsu-1 .component-10-U6xerV {
+  --z-index: 10;
+  background-color: transparent;
+  height: 16.03%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-location-yeonsu-1 .rectangle-30-GH3y6o {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  height: 101.31%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -0.65%;
+  width: 100.56%;
+}
+
+.community-location-yeonsu-1 .where-is-a-24-hour-hospital-nearby-GH3y6o {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 18.27%;
+  left: 15.83%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 38.22%;
+  width: 65.28%;
+}
+
+.community-location-yeonsu-1 .rectangle-32-GH3y6o {
+  --z-index: 2;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  height: 21.05%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 79.60%;
+  width: 100.56%;
+}
+
+.community-location-yeonsu-1 .chat_bubble_outline_black_24dp-1-GH3y6o {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/chat-bubble-outline-black-24dp-1-1@2x.png);
+  background-size: 100% 100%;
+  height: 15.66%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 82.61%;
+  width: 6.67%;
+}
+
+.community-location-yeonsu-1 .icon-heart-GH3y6o {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/favorite-border-black-24dp-1-1@2x.png);
+  background-size: 100% 100%;
+  height: 15.66%;
+  left: 82.50%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 82.61%;
+  width: 6.67%;
+}
+
+.community-location-yeonsu-1 .component-1-U6xerV {
+  --z-index: 11;
+  background-color: transparent;
+  height: 2.48%;
+  left: 2.50%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1.76%;
+  width: 25.56%;
+}
+
+.community-location-yeonsu-1 .rectangle-31-wjoxka {
+  --z-index: 0;
+  background-color: #e5e5e5;
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.community-location-yeonsu-1 .hospital-wjoxka {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 92.72%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.community-location-yeonsu-1 .what-snack-does-your-U6xerV {
+  --z-index: 12;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 4.55%;
+  left: 15.28%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 52.33%;
+  width: 74.72%;
+}
+
+.community-location-yeonsu-1 .component-20-U6xerV {
+  --z-index: 13;
+  background-color: transparent;
+  height: 2.28%;
+  left: 2.50%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 48.40%;
+  width: 25.56%;
+}
+
+.community-location-yeonsu-1 .rectangle-31-MMKNFw {
+  --z-index: 0;
+  background-color: #e5e5e5;
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.community-location-yeonsu-1 .hospital-MMKNFw {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 101.15%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.community-location-yeonsu-1 .component-7-U6xerV {
+  --z-index: 14;
+  background-color: transparent;
+  height: 2.30%;
+  left: 2.50%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 64.12%;
+  width: 25.56%;
+}
+
+.community-location-yeonsu-1 .component-1-C5LP9Y {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.community-location-yeonsu-1 .rectangle-31-1OWrf0 {
+  --z-index: 0;
+  background-color: #e5e5e5;
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.community-location-yeonsu-1 .hospital-1OWrf0 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 100%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.community-location-yeonsu-1 .component-23-U6xerV {
+  --z-index: 15;
+  background-color: transparent;
+  height: 2.30%;
+  left: 2.50%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 78.03%;
+  width: 25.56%;
+}
+
+.community-location-yeonsu-1 .component-1-3aVX2H {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.community-location-yeonsu-1 .rectangle-31-fdQ36e {
+  --z-index: 0;
+  background-color: #e5e5e5;
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.community-location-yeonsu-1 .hospital-fdQ36e {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 100%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.community-location-yeonsu-1 .component-20-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -5px;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  width: 360px;
+}
+
+.community-location-yeonsu-1 .component-15-uWnxTg {
+  --z-index: 0;
+  background-color: transparent;
+  cursor: pointer;
+  height: 102.27%;
+  left: 86.11%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -115.91%;
+  width: 12.50%;
+}
+
+.community-location-yeonsu-1 .ellipse-27-kPMowq {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+  border-radius: 22.5px;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-location-yeonsu-1 .edit_fill0_wght400_grad0_opsz48-1-kPMowq {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/edit-fill0-wght400-grad0-opsz48-1@2x.png);
+  background-size: 100% 100%;
+  height: 73.33%;
+  left: 13.33%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 13.33%;
+  width: 73.33%;
+}
+
+.community-location-yeonsu-1 .component-5-uWnxTg {
+  --z-index: 1;
+  background-color: transparent;
+  height: 88.64%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-location-yeonsu-1 .rectangle-35-NxZUiA {
+  --z-index: 0;
+  background-color: #56ccf2;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-location-yeonsu-1 .rectangle-37-NxZUiA {
+  --z-index: 1;
+  background-color: #56ccf2;
+  border: 0.5px solid #d7d7d7;
+  height: 105.13%;
+  left: 18.89%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -2.56%;
+  width: 21.39%;
+}
+
+.community-location-yeonsu-1 .rectangle-36-NxZUiA {
+  --z-index: 2;
+  background-color: #56ccf2;
+  border: 0.5px solid #d7d7d7;
+  height: 105.13%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -2.56%;
+  width: 19.72%;
+}
+
+.community-location-yeonsu-1 .component-4-uWnxTg {
+  --z-index: 2;
+  background-color: transparent;
+  height: 100%;
+  left: 5.28%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 89.72%;
+}
+
+.community-location-yeonsu-1 .icon-home-ecrdIk {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/home-black-24dp-1@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 63.64%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 9.09%;
+  width: 9.91%;
+}
+
+.community-location-yeonsu-1 .home-ecrdIk {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  height: 54.55%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 10.22%;
+}
+
+.community-location-yeonsu-1 .groups_black_24dp-1-ecrdIk {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/groups-black-24dp-1@2x.png);
+  background-size: 100% 100%;
+  height: 72.73%;
+  left: 20.74%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 11.15%;
+}
+
+.community-location-yeonsu-1 .community-ecrdIk {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  height: 54.55%;
+  left: 17.03%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 40.91%;
+  width: 19.81%;
+}
+
+.community-location-yeonsu-1 .rectangle-38-ecrdIk {
+  --z-index: 4;
+  background-color: #56ccf2;
+  border: 0.5px solid #d7d7d7;
+  height: 93.18%;
+  left: 38.08%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -2.27%;
+  width: 22.60%;
+}
+
+.community-location-yeonsu-1 .x6366325_animal_breed-ecrdIk {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/6366325-animal-breed-corgi-dog-pedigree-icon-1-26@2x.png);
+  background-size: 100% 100%;
+  height: 47.73%;
+  left: 39.01%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 9.09%;
+  width: 9.91%;
+}
+
+.community-location-yeonsu-1 .x6366340_animal_breed-ecrdIk {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/6366340-animal-breed-dog-miniature-pedigree-icon-1@2x.png);
+  background-size: 100% 100%;
+  height: 63.64%;
+  left: 49.54%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 9.09%;
+  width: 10.22%;
+}
+
+.community-location-yeonsu-1 .rectangle-39-ecrdIk {
+  --z-index: 7;
+  background-color: #56ccf2;
+  border: 0.5px solid #d7d7d7;
+  height: 93.18%;
+  left: 60.37%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -2.27%;
+  width: 22.91%;
+}
+
+.community-location-yeonsu-1 .question_answer_black_24dp-1-ecrdIk {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/question-answer-black-24dp-1@2x.png);
+  background-size: 100% 100%;
+  height: 54.55%;
+  left: 66.56%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 13.64%;
+  width: 10.53%;
+}
+
+.community-location-yeonsu-1 .chat-ecrdIk {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  height: 54.55%;
+  left: 67.80%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 7.74%;
+}
+
+.community-location-yeonsu-1 .icon-user-ecrdIk {
+  --z-index: 10;
+  background-color: transparent;
+  background-image: url(../img/person-black-24dp-1@2x.png);
+  background-size: 100% 100%;
+  height: 54.55%;
+  left: 88.54%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 9.09%;
+  width: 11.46%;
+}
+
+.community-location-yeonsu-1 .profile-ecrdIk {
+  --z-index: 11;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  height: 54.55%;
+  left: 88.54%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 11.46%;
+}
+
+.community-location-yeonsu-1 .x-ecrdIk {
+  --z-index: 12;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  height: 84.09%;
+  left: 47.68%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 2.48%;
+}
+
+.community-location-yeonsu-1 .matching-ecrdIk {
+  --z-index: 13;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: 50.00%;
+  left: 41.80%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 47.73%;
+  width: 15.17%;
+}
+
+.community-location-yeonsu-1 .rectangle-23-C61RwL {
+  --z-index: 2;
+  background-color: #fafafa;
+  border: 1px solid #e5e5e5;
+  height: 125px;
+  left: -1px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 61px;
+  width: 362px;
+}
+
+.community-location-yeonsu-1 .rectangle-29-C61RwL {
+  --z-index: 3;
+  background-color: #ffeb00;
+  border-radius: 20px;
+  height: 30px;
+  left: 9px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 133px;
+  width: 108px;
+}
+
+.community-location-yeonsu-1 .q-a-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  text-align: left;
+  top: 136px;
+  width: auto;
+}
+
+.community-location-yeonsu-1 .rectangle-26-C61RwL {
+  --z-index: 5;
+  background-color: #ffeb00;
+  border-radius: 20px;
+  height: 30px;
+  left: 126px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 133px;
+  width: 108px;
+}
+
+.community-location-yeonsu-1 .place-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  text-align: left;
+  top: 136px;
+  width: auto;
+}
+
+.community-location-yeonsu-1 .rectangle-25-C61RwL {
+  --z-index: 7;
+  background-color: #ffeb00;
+  border-radius: 20px;
+  height: 30px;
+  left: 243px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 133px;
+  width: 108px;
+}
+
+.community-location-yeonsu-1 .dog-cafe-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 260px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  text-align: left;
+  top: 136px;
+  width: auto;
+}
+
+.community-location-yeonsu-1 .rectangle-27-C61RwL {
+  --z-index: 9;
+  background-color: #ffeb00;
+  border-radius: 20px;
+  height: 30px;
+  left: 243px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 77px;
+  width: 108px;
+}
+
+.community-location-yeonsu-1 .animals-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 262px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  text-align: left;
+  top: 80px;
+  width: auto;
+}
+
+.community-location-yeonsu-1 .rectangle-28-C61RwL {
+  --z-index: 11;
+  background-color: #ffeb00;
+  border-radius: 20px;
+  height: 30px;
+  left: 126px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 77px;
+  width: 108px;
+}
+
+.community-location-yeonsu-1 .hospital-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 144px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  text-align: left;
+  top: 80px;
+  width: auto;
+}
+
+.community-location-yeonsu-1 .rectangle-24-C61RwL {
+  --z-index: 13;
+  background-color: #ffeb00;
+  border-radius: 20px;
+  height: 30px;
+  left: 9px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 77px;
+  width: 108px;
+}
+
+.community-location-yeonsu-1 .restaurant-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  text-align: left;
+  top: 80px;
+  width: auto;
+}
+
+.community-location-yeonsu-1 .rectangle-21-C61RwL {
+  --z-index: 15;
+  background-color: #56ccf2;
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 0px;
+  width: 360px;
+}
+
+.community-location-yeonsu-1 .rectangle-22-C61RwL {
+  --z-index: 16;
+  background-color: #ffffff;
+  height: 30px;
+  left: 180px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 16px;
+  width: 168px;
+  text-align: left;
+  text-indent: 8px;
+  font-size: 20px;
+  color: #d7d7d7;
+  line-height: 30px;
+}
+
+.community-location-yeonsu-1 .icon-search-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  background-image: url(../img/search-black-24dp-1@2x.png);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 314px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 16px;
+  width: 33px;
+}
+
+.community-location-yeonsu-1 .expand_more_black_24dp-1-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  background-image: url(../img/expand-more-black-24dp-1@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 24px;
+  left: 105px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 19px;
+  width: 24px;
+}
+
+.community-location-yeonsu-1 .yeonsu-C61RwL {
+  --z-index: 19;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  text-align: left;
+  top: 12px;
+  width: auto;
+}
+/* screen - communitylocationyeonsu */
+
+.communitylocationyeonsu {
+  background-color: #ffffff;
+  height: 100vh;
+  margin: 0px;
+  min-height: 640px;
+  min-width: 360px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.communitylocationyeonsu .component-21-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 956px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 183px;
+  width: 360px;
+}
+
+.communitylocationyeonsu .rectangle-114-U6xerV {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 99.55%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0.45%;
+  width: 100%;
+}
+
+.communitylocationyeonsu .component-22-U6xerV {
+  --z-index: 1;
+  background-color: transparent;
+  height: 12.87%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 77.30%;
+  width: 100%;
+}
+
+.communitylocationyeonsu .rectangle-115-zMOVXH {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.communitylocationyeonsu .rectangle-116-zMOVXH {
+  --z-index: 1;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  height: 23.30%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 76.81%;
+  width: 100.56%;
+}
+
+.communitylocationyeonsu .chat_bubble_outline_black_24dp-2-zMOVXH {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/chat-bubble-outline-black-24dp-2-11@2x.png);
+  background-size: 100% 100%;
+  height: 17.07%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 80.97%;
+  width: 6.67%;
+}
+
+.communitylocationyeonsu .icon-heart-zMOVXH {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/favorite-border-black-24dp-2-11@2x.png);
+  background-size: 100% 100%;
+  height: 17.07%;
+  left: 83.06%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 80.97%;
+  width: 6.67%;
+}
+
+.communitylocationyeonsu .central-park-is-a-re-zMOVXH {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: 39.02%;
+  left: 11.67%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 29.37%;
+  width: 82.22%;
+}
+
+.communitylocationyeonsu .component-21-U6xerV {
+  --z-index: 2;
+  background-color: transparent;
+  height: 13.91%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 63.39%;
+  width: 100%;
+}
+
+.communitylocationyeonsu .rectangle-115-6g9Fqq {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.communitylocationyeonsu .rectangle-116-6g9Fqq {
+  --z-index: 1;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  height: 23.18%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 76.87%;
+  width: 100.56%;
+}
+
+.communitylocationyeonsu .chat_bubble_outline_black_24dp-2-6g9Fqq {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/chat-bubble-outline-black-24dp-2-12@2x.png);
+  background-size: 100% 100%;
+  height: 17.29%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 80.86%;
+  width: 6.67%;
+}
+
+.communitylocationyeonsu .icon-heart-6g9Fqq {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/favorite-border-black-24dp-2-12@2x.png);
+  background-size: 100% 100%;
+  height: 17.29%;
+  left: 83.06%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 80.86%;
+  width: 6.67%;
+}
+
+.communitylocationyeonsu .central-park-is-a-re-6g9Fqq {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 33.08%;
+  left: 11.67%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 29.37%;
+  width: 76.67%;
+}
+
+.communitylocationyeonsu .q-a-U6xerV {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 2.28%;
+  left: 3.33%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 22.22%;
+}
+
+.communitylocationyeonsu .component-19-U6xerV {
+  --z-index: 4;
+  background-color: transparent;
+  height: 15.72%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 47.67%;
+  width: 100%;
+}
+
+.communitylocationyeonsu .rectangle-115-piS2MB {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.communitylocationyeonsu .rectangle-116-piS2MB {
+  --z-index: 1;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  height: 23.01%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 76.96%;
+  width: 100.56%;
+}
+
+.communitylocationyeonsu .chat_bubble_outline_black_24dp-2-piS2MB {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/chat-bubble-outline-black-24dp-2-13@2x.png);
+  background-size: 100% 100%;
+  height: 16.97%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 81.03%;
+  width: 6.67%;
+}
+
+.communitylocationyeonsu .icon-heart-piS2MB {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/favorite-border-black-24dp-2-13@2x.png);
+  background-size: 100% 100%;
+  height: 16.97%;
+  left: 83.06%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 81.03%;
+  width: 6.67%;
+}
+
+.communitylocationyeonsu .central-park-is-a-re-piS2MB {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: 15.97%;
+  left: 11.67%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 29.37%;
+  width: 0px;
+}
+
+.communitylocationyeonsu .dog-cafe-U6xerV {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 2.28%;
+  left: 3.33%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 22.22%;
+}
+
+.communitylocationyeonsu .component-18-U6xerV {
+  --z-index: 6;
+  background-color: transparent;
+  height: 15.72%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 31.95%;
+  width: 100%;
+}
+
+.communitylocationyeonsu .rectangle-115-CNYEtx {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.communitylocationyeonsu .rectangle-116-CNYEtx {
+  --z-index: 1;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  height: 23.01%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 76.96%;
+  width: 100.56%;
+}
+
+.communitylocationyeonsu .chat_bubble_outline_black_24dp-2-CNYEtx {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/chat-bubble-outline-black-24dp-2-14@2x.png);
+  background-size: 100% 100%;
+  height: 17.30%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 80.86%;
+  width: 6.67%;
+}
+
+.communitylocationyeonsu .icon-heart-CNYEtx {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/favorite-border-black-24dp-2-14@2x.png);
+  background-size: 100% 100%;
+  height: 17.30%;
+  left: 83.06%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 80.86%;
+  width: 6.67%;
+}
+
+.communitylocationyeonsu .central-park-is-a-re-CNYEtx {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: 31.94%;
+  left: 11.67%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 29.37%;
+  width: 74.17%;
+}
+
+.communitylocationyeonsu .component-3-U6xerV {
+  --z-index: 7;
+  background-color: transparent;
+  height: 2.38%;
+  left: 2.50%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 32.68%;
+  width: 25.56%;
+}
+
+.communitylocationyeonsu .rectangle-31-Gm8kxQ {
+  --z-index: 0;
+  background-color: #e5e5e5;
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.communitylocationyeonsu .hospital-Gm8kxQ {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 96.75%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.communitylocationyeonsu .component-17-U6xerV {
+  --z-index: 8;
+  background-color: transparent;
+  height: 15.93%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 16.03%;
+  width: 100%;
+}
+
+.communitylocationyeonsu .rectangle-33-xoK8sr {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  height: 101.31%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -0.66%;
+  width: 100.56%;
+}
+
+.communitylocationyeonsu .rectangle-34-xoK8sr {
+  --z-index: 1;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  height: 21.06%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 79.60%;
+  width: 100.56%;
+}
+
+.communitylocationyeonsu .chat_bubble_outline_black_24dp-2-xoK8sr {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/chat-bubble-outline-black-24dp-2-15@2x.png);
+  background-size: 100% 100%;
+  height: 15.76%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 82.56%;
+  width: 6.67%;
+}
+
+.communitylocationyeonsu .icon-heart-xoK8sr {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/favorite-border-black-24dp-2-15@2x.png);
+  background-size: 100% 100%;
+  height: 15.76%;
+  left: 83.06%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 82.56%;
+  width: 6.67%;
+}
+
+.communitylocationyeonsu .baronado-dog-cafe-is-xoK8sr {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: 47.29%;
+  left: 11.67%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 28.66%;
+  width: 82.22%;
+}
+
+.communitylocationyeonsu .component-2-U6xerV {
+  --z-index: 9;
+  background-color: transparent;
+  height: 2.48%;
+  left: 2.50%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 16.75%;
+  width: 25.56%;
+}
+
+.communitylocationyeonsu .rectangle-31-dU84Hx {
+  --z-index: 0;
+  background-color: #e5e5e5;
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.communitylocationyeonsu .hospital-dU84Hx {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 92.72%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.communitylocationyeonsu .component-10-U6xerV {
+  --z-index: 10;
+  background-color: transparent;
+  height: 16.03%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.communitylocationyeonsu .rectangle-30-GH3y6o {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  height: 101.31%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -0.65%;
+  width: 100.56%;
+}
+
+.communitylocationyeonsu .where-is-a-24-hour-hospital-nearby-GH3y6o {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 18.27%;
+  left: 15.83%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 38.22%;
+  width: 65.28%;
+}
+
+.communitylocationyeonsu .rectangle-32-GH3y6o {
+  --z-index: 2;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  height: 21.05%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 79.60%;
+  width: 100.56%;
+}
+
+.communitylocationyeonsu .chat_bubble_outline_black_24dp-1-GH3y6o {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/chat-bubble-outline-black-24dp-1-1@2x.png);
+  background-size: 100% 100%;
+  height: 15.66%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 82.61%;
+  width: 6.67%;
+}
+
+.communitylocationyeonsu .icon-heart-GH3y6o {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/favorite-border-black-24dp-1-1@2x.png);
+  background-size: 100% 100%;
+  height: 15.66%;
+  left: 82.50%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 82.61%;
+  width: 6.67%;
+}
+
+.communitylocationyeonsu .component-1-U6xerV {
+  --z-index: 11;
+  background-color: transparent;
+  height: 2.48%;
+  left: 2.50%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1.76%;
+  width: 25.56%;
+}
+
+.communitylocationyeonsu .rectangle-31-wjoxka {
+  --z-index: 0;
+  background-color: #e5e5e5;
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.communitylocationyeonsu .hospital-wjoxka {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 92.72%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.communitylocationyeonsu .what-snack-does-your-U6xerV {
+  --z-index: 12;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 4.55%;
+  left: 15.28%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 52.33%;
+  width: 74.72%;
+}
+
+.communitylocationyeonsu .component-20-U6xerV {
+  --z-index: 13;
+  background-color: transparent;
+  height: 2.28%;
+  left: 2.50%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 48.40%;
+  width: 25.56%;
+}
+
+.communitylocationyeonsu .rectangle-31-MMKNFw {
+  --z-index: 0;
+  background-color: #e5e5e5;
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.communitylocationyeonsu .hospital-MMKNFw {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 101.15%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.communitylocationyeonsu .component-7-U6xerV {
+  --z-index: 14;
+  background-color: transparent;
+  height: 2.30%;
+  left: 2.50%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 64.12%;
+  width: 25.56%;
+}
+
+.communitylocationyeonsu .component-1-C5LP9Y {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.communitylocationyeonsu .rectangle-31-1OWrf0 {
+  --z-index: 0;
+  background-color: #e5e5e5;
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.communitylocationyeonsu .hospital-1OWrf0 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 100%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.communitylocationyeonsu .component-23-U6xerV {
+  --z-index: 15;
+  background-color: transparent;
+  height: 2.30%;
+  left: 2.50%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 78.03%;
+  width: 25.56%;
+}
+
+.communitylocationyeonsu .component-1-3aVX2H {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.communitylocationyeonsu .rectangle-31-fdQ36e {
+  --z-index: 0;
+  background-color: #e5e5e5;
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.communitylocationyeonsu .hospital-fdQ36e {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 100%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.communitylocationyeonsu .component-20-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -5px;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  width: 360px;
+}
+
+.communitylocationyeonsu .component-15-uWnxTg {
+  --z-index: 0;
+  background-color: transparent;
+  cursor: pointer;
+  height: 102.27%;
+  left: 86.11%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -115.91%;
+  width: 12.50%;
+}
+
+.communitylocationyeonsu .ellipse-27-kPMowq {
+  --z-index: 0;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+  border-radius: 22.5px;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.communitylocationyeonsu .edit_fill0_wght400_grad0_opsz48-1-kPMowq {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/edit-fill0-wght400-grad0-opsz48-1@2x.png);
+  background-size: 100% 100%;
+  height: 73.33%;
+  left: 13.33%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 13.33%;
+  width: 73.33%;
+}
+
+.communitylocationyeonsu .component-5-uWnxTg {
+  --z-index: 1;
+  background-color: transparent;
+  height: 88.64%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.communitylocationyeonsu .rectangle-35-NxZUiA {
+  --z-index: 0;
+  background-color: #56ccf2;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.communitylocationyeonsu .rectangle-37-NxZUiA {
+  --z-index: 1;
+  background-color: #56ccf2;
+  border: 0.5px solid #d7d7d7;
+  height: 105.13%;
+  left: 18.89%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -2.56%;
+  width: 21.39%;
+}
+
+.communitylocationyeonsu .rectangle-36-NxZUiA {
+  --z-index: 2;
+  background-color: #56ccf2;
+  border: 0.5px solid #d7d7d7;
+  height: 105.13%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -2.56%;
+  width: 19.72%;
+}
+
+.communitylocationyeonsu .component-4-uWnxTg {
+  --z-index: 2;
+  background-color: transparent;
+  height: 100%;
+  left: 5.28%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 89.72%;
+}
+
+.communitylocationyeonsu .icon-home-ecrdIk {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/home-black-24dp-1@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 63.64%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 9.09%;
+  width: 9.91%;
+}
+
+.communitylocationyeonsu .home-ecrdIk {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  height: 54.55%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 10.22%;
+}
+
+.communitylocationyeonsu .groups_black_24dp-1-ecrdIk {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/groups-black-24dp-1@2x.png);
+  background-size: 100% 100%;
+  height: 72.73%;
+  left: 20.74%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 11.15%;
+}
+
+.communitylocationyeonsu .community-ecrdIk {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  height: 54.55%;
+  left: 17.03%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 40.91%;
+  width: 19.81%;
+}
+
+.communitylocationyeonsu .rectangle-38-ecrdIk {
+  --z-index: 4;
+  background-color: #56ccf2;
+  border: 0.5px solid #d7d7d7;
+  height: 93.18%;
+  left: 38.08%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -2.27%;
+  width: 22.60%;
+}
+
+.communitylocationyeonsu .x6366325_animal_breed-ecrdIk {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/6366325-animal-breed-corgi-dog-pedigree-icon-1-26@2x.png);
+  background-size: 100% 100%;
+  height: 47.73%;
+  left: 39.01%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 9.09%;
+  width: 9.91%;
+}
+
+.communitylocationyeonsu .x6366340_animal_breed-ecrdIk {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/6366340-animal-breed-dog-miniature-pedigree-icon-1@2x.png);
+  background-size: 100% 100%;
+  height: 63.64%;
+  left: 49.54%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 9.09%;
+  width: 10.22%;
+}
+
+.communitylocationyeonsu .rectangle-39-ecrdIk {
+  --z-index: 7;
+  background-color: #56ccf2;
+  border: 0.5px solid #d7d7d7;
+  height: 93.18%;
+  left: 60.37%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -2.27%;
+  width: 22.91%;
+}
+
+.communitylocationyeonsu .question_answer_black_24dp-1-ecrdIk {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/question-answer-black-24dp-1@2x.png);
+  background-size: 100% 100%;
+  height: 54.55%;
+  left: 66.56%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 13.64%;
+  width: 10.53%;
+}
+
+.communitylocationyeonsu .chat-ecrdIk {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  height: 54.55%;
+  left: 67.80%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 7.74%;
+}
+
+.communitylocationyeonsu .icon-user-ecrdIk {
+  --z-index: 10;
+  background-color: transparent;
+  background-image: url(../img/person-black-24dp-1@2x.png);
+  background-size: 100% 100%;
+  height: 54.55%;
+  left: 88.54%;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 9.09%;
+  width: 11.46%;
+}
+
+.communitylocationyeonsu .profile-ecrdIk {
+  --z-index: 11;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  height: 54.55%;
+  left: 88.54%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 11.46%;
+}
+
+.communitylocationyeonsu .x-ecrdIk {
+  --z-index: 12;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  height: 84.09%;
+  left: 47.68%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 2.48%;
+}
+
+.communitylocationyeonsu .matching-ecrdIk {
+  --z-index: 13;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cairo', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: 50.00%;
+  left: 41.80%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 47.73%;
+  width: 15.17%;
+}
+
+.communitylocationyeonsu .rectangle-23-C61RwL {
+  --z-index: 2;
+  background-color: #fafafa;
+  border: 1px solid #e5e5e5;
+  height: 125px;
+  left: -1px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 61px;
+  width: 362px;
+}
+
+.communitylocationyeonsu .rectangle-29-C61RwL {
+  --z-index: 3;
+  background-color: #ffeb00;
+  border-radius: 20px;
+  height: 30px;
+  left: 9px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 133px;
+  width: 108px;
+}
+
+.communitylocationyeonsu .q-a-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  text-align: left;
+  top: 136px;
+  width: auto;
+}
+
+.communitylocationyeonsu .rectangle-26-C61RwL {
+  --z-index: 5;
+  background-color: #ffeb00;
+  border-radius: 20px;
+  height: 30px;
+  left: 126px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 133px;
+  width: 108px;
+}
+
+.communitylocationyeonsu .place-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  text-align: left;
+  top: 136px;
+  width: auto;
+}
+
+.communitylocationyeonsu .rectangle-25-C61RwL {
+  --z-index: 7;
+  background-color: #ffeb00;
+  border-radius: 20px;
+  height: 30px;
+  left: 243px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 133px;
+  width: 108px;
+}
+
+.communitylocationyeonsu .dog-cafe-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 260px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  text-align: left;
+  top: 136px;
+  width: auto;
+}
+
+.communitylocationyeonsu .rectangle-27-C61RwL {
+  --z-index: 9;
+  background-color: #ffeb00;
+  border-radius: 20px;
+  height: 30px;
+  left: 243px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 77px;
+  width: 108px;
+}
+
+.communitylocationyeonsu .animals-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 262px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  text-align: left;
+  top: 80px;
+  width: auto;
+}
+
+.communitylocationyeonsu .rectangle-28-C61RwL {
+  --z-index: 11;
+  background-color: #ffeb00;
+  border-radius: 20px;
+  height: 30px;
+  left: 126px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 77px;
+  width: 108px;
+}
+
+.communitylocationyeonsu .hospital-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 144px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  text-align: left;
+  top: 80px;
+  width: auto;
+}
+
+.communitylocationyeonsu .rectangle-24-C61RwL {
+  --z-index: 13;
+  background-color: #ffeb00;
+  border-radius: 20px;
+  height: 30px;
+  left: 9px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 77px;
+  width: 108px;
+}
+
+.communitylocationyeonsu .restaurant-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  text-align: left;
+  top: 80px;
+  width: auto;
+}
+
+.communitylocationyeonsu .rectangle-21-C61RwL {
+  --z-index: 15;
+  background-color: #56ccf2;
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 0px;
+  width: 360px;
+}
+
+.communitylocationyeonsu .rectangle-22-C61RwL {
+  --z-index: 16;
+  background-color: #ffffff;
+  height: 30px;
+  left: 180px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 16px;
+  width: 168px;
+  text-align: left;
+  text-indent: 8px;
+  font-size: 20px;
+  color: #d7d7d7;
+  line-height: 30px;
+}
+
+.communitylocationyeonsu .icon-search-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  background-image: url(../img/search-black-24dp-1@2x.png);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 314px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 16px;
+  width: 33px;
+}
+
+.communitylocationyeonsu .expand_more_black_24dp-1-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  background-image: url(../img/expand-more-black-24dp-1@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 24px;
+  left: 105px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 19px;
+  width: 24px;
+}
+
+.communitylocationyeonsu .yeonsu-C61RwL {
+  --z-index: 19;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  text-align: left;
+  top: 12px;
+  width: auto;
+}
+
+.communitylocationyeonsu .component-24-C61RwL {
+  --z-index: 20;
+  background-color: transparent;
+  height: 155px;
+  left: 9px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 45px;
+  width: 215px;
+}
+
+.communitylocationyeonsu .rectangle-55-6WD8qE {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-55@2x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.communitylocationyeonsu .yeonsu-6WD8qE {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28.14%;
+  left: 28.00%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 11.98%;
+  width: 46.22%;
+}
+
+.communitylocationyeonsu .yonghyun-6WD8qE {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28.14%;
+  left: 19.11%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 40.12%;
+  width: 60.89%;
+}
+
+.communitylocationyeonsu .find-location-6WD8qE {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28.14%;
+  left: 11.11%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 68.26%;
+  width: 79.11%;
+}

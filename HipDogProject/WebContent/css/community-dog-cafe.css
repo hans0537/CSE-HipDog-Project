@@ -1,0 +1,838 @@
+/* screen - community-dog-cafe */
+
+.community-dog-cafe {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 640px;
+  min-width: 360px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.community-dog-cafe .component-60-C61RwL {
+  background-color: transparent;
+  height: 205px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 60px;
+  width: 360px;
+}
+
+.community-dog-cafe .rectangle-40-8CbGEK {
+  background-color: var(--white);
+  height: 100.49%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0.49%;
+  width: 100.56%;
+}
+
+.community-dog-cafe .dog-cafe-8CbGEK {
+  background-color: transparent;
+  height: 15.12%;
+  left: 2.78%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6.34%;
+  width: 27.50%;
+}
+
+.community-dog-cafe .rectangle-41-8CbGEK {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 14.15%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 85.85%;
+  width: 100.56%;
+}
+
+.community-dog-cafe .create-8CbGEK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 13.66%;
+  left: 41.67%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 86.34%;
+  width: 15.00%;
+}
+
+.community-dog-cafe .local_cafe_fill0_wght400_grad0_opsz48-1-8CbGEK {
+  background-color: transparent;
+  height: 65.85%;
+  left: 26.39%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16.59%;
+  width: 46.94%;
+}
+
+.community-dog-cafe .component-36-C61RwL {
+  background-color: transparent;
+  height: 547px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 265px;
+  width: 361px;
+}
+
+.community-dog-cafe .component-25-gmKP0q {
+  background-color: transparent;
+  height: 75.32%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 24.68%;
+  width: 99.72%;
+}
+
+.community-dog-cafe .component-21-09FjD0 {
+  background-color: transparent;
+  height: 99.87%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-dog-cafe .rectangle-114-k8xehM {
+  background-color: var(--white);
+  height: 99.55%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0.45%;
+  width: 100%;
+}
+
+.community-dog-cafe .dog-cafe-k8xehM {
+  background-color: transparent;
+  height: 2.28%;
+  left: 3.33%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 22.22%;
+}
+
+.community-dog-cafe .im-trying-to-neuter-09FjD0 {
+  background-color: transparent;
+  height: 5.34%;
+  left: 16.11%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 38.47%;
+  width: 0px;
+}
+
+.community-dog-cafe .my-dog-is-losing-so-09FjD0 {
+  background-color: transparent;
+  height: 5.34%;
+  left: 12.78%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 22.48%;
+  width: 0px;
+}
+
+.community-dog-cafe .component-26-gmKP0q {
+  background-color: transparent;
+  height: 24.86%;
+  left: 0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 24.86%;
+  width: 99.72%;
+}
+
+.community-dog-cafe .rectangle-115-OClXu3 {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-dog-cafe .rectangle-116-OClXu3 {
+  background-color: var(--white);
+  height: 23.15%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 76.89%;
+  width: 100.56%;
+}
+
+.community-dog-cafe .chat_bubble_outline_black_24dp-2-OClXu3 {
+  background-color: transparent;
+  height: 17.28%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 80.87%;
+  width: 6.67%;
+}
+
+.community-dog-cafe .icon-heart-OClXu3 {
+  background-color: transparent;
+  height: 17.28%;
+  left: 83.06%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 80.87%;
+  width: 6.67%;
+}
+
+.community-dog-cafe .component-22-gmKP0q {
+  background-color: transparent;
+  height: 24.86%;
+  left: 0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 99.72%;
+}
+
+.community-dog-cafe .rectangle-115-UI5imW {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-dog-cafe .rectangle-116-UI5imW {
+  background-color: var(--white);
+  height: 23.15%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 76.89%;
+  width: 100.56%;
+}
+
+.community-dog-cafe .chat_bubble_outline_black_24dp-2-UI5imW {
+  background-color: transparent;
+  height: 17.28%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 80.87%;
+  width: 6.67%;
+}
+
+.community-dog-cafe .icon-heart-UI5imW {
+  background-color: transparent;
+  height: 17.28%;
+  left: 83.06%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 80.87%;
+  width: 6.67%;
+}
+
+.community-dog-cafe .component-27-gmKP0q {
+  background-color: transparent;
+  height: 24.86%;
+  left: 0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 49.73%;
+  width: 99.72%;
+}
+
+.community-dog-cafe .rectangle-115-F6pFAb {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-dog-cafe .rectangle-116-F6pFAb {
+  background-color: var(--white);
+  height: 23.15%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 76.89%;
+  width: 100.56%;
+}
+
+.community-dog-cafe .chat_bubble_outline_black_24dp-2-F6pFAb {
+  background-color: transparent;
+  height: 17.28%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 80.87%;
+  width: 6.67%;
+}
+
+.community-dog-cafe .icon-heart-F6pFAb {
+  background-color: transparent;
+  height: 17.28%;
+  left: 83.06%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 80.87%;
+  width: 6.67%;
+}
+
+.community-dog-cafe .baronado-dog-cafe-is-gmKP0q {
+  background-color: transparent;
+  height: 8.78%;
+  left: 11.36%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7.86%;
+  width: 81.99%;
+}
+
+.community-dog-cafe .component-1-gmKP0q {
+  background-color: transparent;
+  height: 4.02%;
+  left: 1.94%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1.83%;
+  width: 25.48%;
+}
+
+.community-dog-cafe .component-1-cxaGdk {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.community-dog-cafe .rectangle-31-uq0Luq {
+  background-color: var(--mercury);
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.community-dog-cafe .hospital-uq0Luq {
+  background-color: transparent;
+  height: 100%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.community-dog-cafe .component-8-gmKP0q {
+  background-color: transparent;
+  height: 4.02%;
+  left: 1.66%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 25.59%;
+  width: 25.48%;
+}
+
+.community-dog-cafe .component-1-Ju73nN {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.community-dog-cafe .rectangle-31-qLsesd {
+  background-color: var(--mercury);
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.community-dog-cafe .hospital-qLsesd {
+  background-color: transparent;
+  height: 100%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.community-dog-cafe .component-28-gmKP0q {
+  background-color: transparent;
+  height: 4.02%;
+  left: 1.66%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 51.19%;
+  width: 25.48%;
+}
+
+.community-dog-cafe .component-1-T4NGGQ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.community-dog-cafe .rectangle-31-X1zQzc {
+  background-color: var(--mercury);
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.community-dog-cafe .hospital-X1zQzc {
+  background-color: transparent;
+  height: 100%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.community-dog-cafe .is-there-a-dog-cafe-gmKP0q {
+  background-color: transparent;
+  height: 4.02%;
+  left: 13.30%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 33.27%;
+  width: 73.96%;
+}
+
+.community-dog-cafe .can-i-go-dog-cafe-without-dogs-gmKP0q {
+  background-color: transparent;
+  height: 4.02%;
+  left: 28.53%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 56.49%;
+  width: 44.88%;
+}
+
+.community-dog-cafe .component-29-gmKP0q {
+  background-color: transparent;
+  height: 24.86%;
+  left: 0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 75.14%;
+  width: 99.72%;
+}
+
+.community-dog-cafe .rectangle-115-UuEGn5 {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-dog-cafe .rectangle-116-UuEGn5 {
+  background-color: var(--white);
+  height: 23.15%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 76.89%;
+  width: 100.56%;
+}
+
+.community-dog-cafe .chat_bubble_outline_black_24dp-2-UuEGn5 {
+  background-color: transparent;
+  height: 17.28%;
+  left: 91.94%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 80.87%;
+  width: 6.67%;
+}
+
+.community-dog-cafe .icon-heart-UuEGn5 {
+  background-color: transparent;
+  height: 17.28%;
+  left: 83.06%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 80.87%;
+  width: 6.67%;
+}
+
+.community-dog-cafe .component-29-2GLO4k {
+  background-color: transparent;
+  height: 4.02%;
+  left: 1.66%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 76.05%;
+  width: 25.48%;
+}
+
+.community-dog-cafe .component-1-XKO7tL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.community-dog-cafe .rectangle-31-XbnyxN {
+  background-color: var(--mercury);
+  border-radius: 20px;
+  height: 86.36%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4.55%;
+  width: 84.78%;
+}
+
+.community-dog-cafe .hospital-XbnyxN {
+  background-color: transparent;
+  height: 100%;
+  left: 13.04%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 86.96%;
+}
+
+.community-dog-cafe .mings-dog-cafe-is-to-gmKP0q {
+  background-color: transparent;
+  height: 4.02%;
+  left: 14.40%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 84.64%;
+  width: 68.14%;
+}
+
+.community-dog-cafe .component-59-C61RwL {
+  background-color: transparent;
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: fixed;
+  top: 0px;
+  width: 360px;
+}
+
+.community-dog-cafe .rectangle-21-vKjRBp {
+  background-color: var(--viking);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-dog-cafe .arrow_back_black_24dp-1-vKjRBp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38.71%;
+  left: 1.67%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 30.65%;
+  width: 12.78%;
+}
+
+.community-dog-cafe .component-20-C61RwL {
+  background-color: transparent;
+  bottom: -5px;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: fixed;
+  width: 360px;
+}
+
+.community-dog-cafe .component-5-uWnxTg {
+  background-color: transparent;
+  height: 88.64%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-dog-cafe .rectangle-35-NxZUiA {
+  background-color: var(--viking);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.community-dog-cafe .rectangle-37-NxZUiA {
+  background-color: var(--viking);
+  height: 105.13%;
+  left: 18.89%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2.56%;
+  width: 21.39%;
+}
+
+.community-dog-cafe .rectangle-36-NxZUiA {
+  background-color: var(--viking);
+  height: 105.13%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2.56%;
+  width: 19.72%;
+}
+
+.community-dog-cafe .component-4-uWnxTg {
+  background-color: transparent;
+  height: 100%;
+  left: 5.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 89.72%;
+}
+
+.community-dog-cafe .icon-home-ecrdIk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 63.64%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9.09%;
+  width: 9.91%;
+}
+
+.community-dog-cafe .home-ecrdIk {
+  background-color: transparent;
+  height: 54.55%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 10.22%;
+}
+
+.community-dog-cafe .groups_black_24dp-1-ecrdIk {
+  background-color: transparent;
+  height: 72.73%;
+  left: 20.74%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 11.15%;
+}
+
+.community-dog-cafe .community-ecrdIk {
+  background-color: transparent;
+  height: 54.55%;
+  left: 17.03%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 40.91%;
+  width: 19.81%;
+}
+
+.community-dog-cafe .rectangle-38-ecrdIk {
+  background-color: var(--viking);
+  height: 93.18%;
+  left: 38.08%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2.27%;
+  width: 22.60%;
+}
+
+.community-dog-cafe .x6366325_animal_breed-ecrdIk {
+  background-color: transparent;
+  height: 47.73%;
+  left: 39.01%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9.09%;
+  width: 9.91%;
+}
+
+.community-dog-cafe .x6366340_animal_breed-ecrdIk {
+  background-color: transparent;
+  height: 63.64%;
+  left: 49.54%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9.09%;
+  width: 10.22%;
+}
+
+.community-dog-cafe .rectangle-39-ecrdIk {
+  background-color: var(--viking);
+  height: 93.18%;
+  left: 60.37%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2.27%;
+  width: 22.91%;
+}
+
+.community-dog-cafe .question_answer_black_24dp-1-ecrdIk {
+  background-color: transparent;
+  height: 54.55%;
+  left: 66.56%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13.64%;
+  width: 10.53%;
+}
+
+.community-dog-cafe .chat-ecrdIk {
+  background-color: transparent;
+  height: 54.55%;
+  left: 67.80%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 7.74%;
+}
+
+.community-dog-cafe .icon-user-ecrdIk {
+  background-color: transparent;
+  height: 54.55%;
+  left: 88.54%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9.09%;
+  width: 11.46%;
+}
+
+.community-dog-cafe .profile-ecrdIk {
+  background-color: transparent;
+  height: 54.55%;
+  left: 88.54%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 11.46%;
+}
+
+.community-dog-cafe .x-ecrdIk {
+  background-color: transparent;
+  height: 84.09%;
+  left: 47.68%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 2.48%;
+}
+
+.community-dog-cafe .matching-ecrdIk {
+  background-color: transparent;
+  height: 50.00%;
+  left: 41.80%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 47.73%;
+  width: 15.17%;
+}

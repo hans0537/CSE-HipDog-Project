@@ -1,0 +1,758 @@
+/* screen - matching-form-1-1-dogtype-size */
+
+.matching-form-1-1-dogtype-size {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.matching-form-1-1-dogtype-size .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 325px;
+  width: 360px;
+}
+
+.matching-form-1-1-dogtype-size .overlap-group6 {
+  height: 193px;
+  position: relative;
+  width: 360px;
+}
+
+.matching-form-1-1-dogtype-size .rectangle-21 {
+  background-color: var(--viking);
+  height: 62px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.matching-form-1-1-dogtype-size .arrow_back_black_24dp-1 {
+  cursor: pointer;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 19px;
+  width: 46px;
+}
+
+.matching-form-1-1-dogtype-size .hip-dog {
+  -webkit-text-stroke: 1px var(--viking);
+  left: 136px;
+  letter-spacing: 0;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 17px;
+  width: 86px;
+}
+
+.matching-form-1-1-dogtype-size .rectangle-108 {
+  height: 132px;
+  left: 0;
+  position: absolute;
+  top: 61px;
+  width: 360px;
+}
+
+.matching-form-1-1-dogtype-size .rectangle-109 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 50px;
+  left: 191px;
+  position: absolute;
+  top: 112px;
+  width: 139px;
+}
+
+.matching-form-1-1-dogtype-size .vector-1 {
+  height: 15px;
+  left: 202px;
+  position: absolute;
+  top: 130px;
+  width: 15px;
+}
+
+.matching-form-1-1-dogtype-size .group-match {
+  left: 223px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 129px;
+  width: 112px;
+}
+
+.matching-form-1-1-dogtype-size .rectangle-110 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 112px;
+  width: 139px;
+}
+
+.matching-form-1-1-dogtype-size .vector-2 {
+  height: 15px;
+  left: 36px;
+  position: absolute;
+  top: 130px;
+  width: 15px;
+}
+
+.matching-form-1-1-dogtype-size .matching-style {
+  left: 46px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 80px;
+  width: 259px;
+}
+
+.matching-form-1-1-dogtype-size .pets_black_24dp-7 {
+  height: 25px;
+  left: 10px;
+  position: absolute;
+  top: 73px;
+  width: 25px;
+}
+
+.matching-form-1-1-dogtype-size .x11-match {
+  left: 64px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 129px;
+  width: 112px;
+}
+
+.matching-form-1-1-dogtype-size .icon-check_mark {
+  height: 12px;
+  left: 38px;
+  position: absolute;
+  top: 128px;
+  width: 17px;
+}
+
+.matching-form-1-1-dogtype-size .overlap-group14 {
+  height: 66px;
+  margin-left: 8.0px;
+  margin-top: 17px;
+  position: relative;
+  width: 352px;
+}
+
+.matching-form-1-1-dogtype-size .overlap-group10 {
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 352px;
+}
+
+.matching-form-1-1-dogtype-size .rectangle-88 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 236px;
+  position: absolute;
+  top: 36px;
+  width: 108px;
+}
+
+.matching-form-1-1-dogtype-size .surname {
+  left: 270px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 44px;
+  width: 71px;
+}
+
+.matching-form-1-1-dogtype-size .rectangle-87 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 118px;
+  position: absolute;
+  top: 36px;
+  width: 108px;
+}
+
+.matching-form-1-1-dogtype-size .medium {
+  left: 150px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 44px;
+  width: 71px;
+}
+
+.matching-form-1-1-dogtype-size .vector-3 {
+  height: 15px;
+  left: 248px;
+  position: absolute;
+  top: 44px;
+  width: 15px;
+}
+
+.matching-form-1-1-dogtype-size .rectangle-98 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 36px;
+  width: 108px;
+}
+
+.matching-form-1-1-dogtype-size .big {
+  left: 11px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 44px;
+  width: 72px;
+}
+
+.matching-form-1-1-dogtype-size .select-the-type-of-dog-you-want {
+  left: 35px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 7px;
+  width: 317px;
+}
+
+.matching-form-1-1-dogtype-size .vector-4 {
+  height: 15px;
+  left: 12px;
+  position: absolute;
+  top: 44px;
+  width: 15px;
+}
+
+.matching-form-1-1-dogtype-size .vector-5 {
+  height: 15px;
+  left: 129px;
+  position: absolute;
+  top: 44px;
+  width: 15px;
+}
+
+.matching-form-1-1-dogtype-size .icon-check_mark-1 {
+  height: 25px;
+  left: 127px;
+  position: absolute;
+  top: 36px;
+  width: 25px;
+}
+
+.matching-form-1-1-dogtype-size .pets_black_24dp-4 {
+  height: 25px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.matching-form-1-1-dogtype-size .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 1.0px;
+  margin-top: 19px;
+  min-width: 347px;
+}
+
+.matching-form-1-1-dogtype-size .overlap-group8 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  position: relative;
+  width: 108px;
+}
+
+.matching-form-1-1-dogtype-size .text {
+  left: 24px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 9px;
+  width: 72px;
+}
+
+.matching-form-1-1-dogtype-size .vector {
+  height: 15px;
+  left: 11px;
+  position: absolute;
+  top: 7px;
+  width: 15px;
+}
+
+.matching-form-1-1-dogtype-size .extrovert {
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 8px;
+  width: 72px;
+}
+
+.matching-form-1-1-dogtype-size .overlap-group11 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  margin-left: 11px;
+  position: relative;
+  width: 108px;
+}
+
+.matching-form-1-1-dogtype-size .introvert {
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 8px;
+  width: 72px;
+}
+
+.matching-form-1-1-dogtype-size .overlap-group5 {
+  height: 30px;
+  margin-left: 11px;
+  position: relative;
+  width: 109px;
+}
+
+.matching-form-1-1-dogtype-size .rectangle-10 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 108px;
+}
+
+.matching-form-1-1-dogtype-size .active {
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 8px;
+  width: 72px;
+}
+
+.matching-form-1-1-dogtype-size .vector-6 {
+  cursor: pointer;
+  height: 15px;
+  left: 11px;
+  position: absolute;
+  top: 7px;
+  width: 15px;
+}
+
+.matching-form-1-1-dogtype-size .overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 1.0px;
+  margin-top: 19px;
+  min-width: 347px;
+}
+
+.matching-form-1-1-dogtype-size .overlap-group12 {
+  height: 30px;
+  position: relative;
+  width: 112px;
+}
+
+.matching-form-1-1-dogtype-size .quiet {
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 8px;
+  width: 72px;
+}
+
+.matching-form-1-1-dogtype-size .overlap-group13 {
+  height: 30px;
+  margin-left: 8px;
+  position: relative;
+  width: 112px;
+}
+
+.matching-form-1-1-dogtype-size .like-people {
+  left: 28px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 8px;
+  width: 81px;
+}
+
+.matching-form-1-1-dogtype-size .overlap-group9 {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  margin-left: 7px;
+  position: relative;
+  width: 108px;
+}
+
+.matching-form-1-1-dogtype-size .no-matter {
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 8px;
+  width: 72px;
+}
+
+.matching-form-1-1-dogtype-size .overlap-group7 {
+  height: 249px;
+  margin-top: 22px;
+  position: relative;
+  width: 360px;
+}
+
+.matching-form-1-1-dogtype-size .rectangle-99 {
+  height: 206px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.matching-form-1-1-dogtype-size .rectangle-67 {
+  background-color: var(--yellow-sunshine);
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 50px;
+  left: 106px;
+  position: absolute;
+  top: 130px;
+  width: 137px;
+}
+
+.matching-form-1-1-dogtype-size .start-matching {
+  left: 115px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 147px;
+  width: 119px;
+}
+
+.matching-form-1-1-dogtype-size .number {
+  left: 220px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 83px;
+  width: 23px;
+}
+
+.matching-form-1-1-dogtype-size .km {
+  left: 242px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 85px;
+  width: 50px;
+}
+
+.matching-form-1-1-dogtype-size .number-1 {
+  left: 114px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 83px;
+  width: 23px;
+}
+
+.matching-form-1-1-dogtype-size .number-2 {
+  left: 147px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 83px;
+  width: 23px;
+}
+
+.matching-form-1-1-dogtype-size .number-3 {
+  left: 182px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 83px;
+  width: 23px;
+}
+
+.matching-form-1-1-dogtype-size .number-4 {
+  left: 76px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 83px;
+  width: 23px;
+}
+
+.matching-form-1-1-dogtype-size .line-18 {
+  height: 26px;
+  left: 226px;
+  position: absolute;
+  top: 53px;
+  width: 3px;
+}
+
+.matching-form-1-1-dogtype-size .line-17 {
+  height: 26px;
+  left: 190px;
+  position: absolute;
+  top: 53px;
+  width: 3px;
+}
+
+.matching-form-1-1-dogtype-size .line-15 {
+  height: 26px;
+  left: 116px;
+  position: absolute;
+  top: 53px;
+  width: 3px;
+}
+
+.matching-form-1-1-dogtype-size .line-14 {
+  height: 26px;
+  left: 80px;
+  position: absolute;
+  top: 53px;
+  width: 3px;
+}
+
+.matching-form-1-1-dogtype-size .pets_black_24dp-5 {
+  height: 25px;
+  left: 10px;
+  position: absolute;
+  top: 11px;
+  width: 24px;
+}
+
+.matching-form-1-1-dogtype-size .customize-location {
+  left: 43px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 18px;
+  width: 313px;
+}
+
+.matching-form-1-1-dogtype-size .line-11 {
+  height: 3px;
+  left: 51px;
+  position: absolute;
+  top: 64px;
+  width: 181px;
+}
+
+.matching-form-1-1-dogtype-size .line-16 {
+  height: 26px;
+  left: 152px;
+  position: absolute;
+  top: 53px;
+  width: 3px;
+}
+
+.matching-form-1-1-dogtype-size .line-12 {
+  height: 26px;
+  left: 46px;
+  position: absolute;
+  top: 53px;
+  width: 3px;
+}
+
+.matching-form-1-1-dogtype-size .pets_black_24dp-6 {
+  height: 26px;
+  left: 36px;
+  position: absolute;
+  top: 52px;
+  width: 28px;
+}
+
+.matching-form-1-1-dogtype-size .number-5 {
+  left: 46px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 83px;
+  width: 23px;
+}
+
+.matching-form-1-1-dogtype-size .component-5 {
+  align-items: flex-start;
+  background-color: var(--viking);
+  display: flex;
+  height: 39px;
+  left: 0;
+  min-width: 360px;
+  position: absolute;
+  top: 205px;
+}
+
+.matching-form-1-1-dogtype-size .overlap-group {
+  height: 41px;
+  margin-left: -1px;
+  margin-top: -1px;
+  position: relative;
+  width: 146px;
+}
+
+.matching-form-1-1-dogtype-size .rectangle-37 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 69px;
+  position: absolute;
+  top: 0;
+  width: 77px;
+}
+
+.matching-form-1-1-dogtype-size .rectangle-36 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 71px;
+}
+
+.matching-form-1-1-dogtype-size .component-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 44px;
+  left: 20px;
+  min-width: 323px;
+  position: absolute;
+  top: 205px;
+}
+
+.matching-form-1-1-dogtype-size .overlap-group4 {
+  align-self: flex-end;
+  height: 39px;
+  margin-bottom: 1px;
+  position: relative;
+  width: 33px;
+}
+
+.matching-form-1-1-dogtype-size .icon-home {
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.matching-form-1-1-dogtype-size .place {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 22px;
+}
+
+.matching-form-1-1-dogtype-size .overlap-group2 {
+  height: 41px;
+  margin-left: 22px;
+  position: relative;
+  width: 64px;
+}
+
+.matching-form-1-1-dogtype-size .groups_black_24dp-1 {
+  height: 32px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 36px;
+}
+
+.matching-form-1-1-dogtype-size .community {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 25px;
+}
+
+.matching-form-1-1-dogtype-size .overlap-group1 {
+  height: 44px;
+  margin-left: 4px;
+  margin-top: -1px;
+  position: relative;
+  width: 146px;
+}
+
+.matching-form-1-1-dogtype-size .rectangle-38 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 73px;
+}
+
+.matching-form-1-1-dogtype-size .x6366325_animal_breed {
+  height: 21px;
+  left: 3px;
+  position: absolute;
+  top: 5px;
+  width: 32px;
+}
+
+.matching-form-1-1-dogtype-size .x6366340_animal_breed {
+  height: 28px;
+  left: 37px;
+  position: absolute;
+  top: 5px;
+  width: 33px;
+}
+
+.matching-form-1-1-dogtype-size .rectangle-39 {
+  background-color: var(--viking);
+  height: 41px;
+  left: 72px;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.matching-form-1-1-dogtype-size .question_answer_black_24dp-1 {
+  height: 24px;
+  left: 92px;
+  position: absolute;
+  top: 7px;
+  width: 34px;
+}
+
+.matching-form-1-1-dogtype-size .chat {
+  left: 96px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 27px;
+}
+
+.matching-form-1-1-dogtype-size .text-11 {
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 10px;
+}
+
+.matching-form-1-1-dogtype-size .place-1 {
+  left: 12px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 27px;
+}
+
+.matching-form-1-1-dogtype-size .overlap-group3 {
+  align-self: flex-end;
+  height: 39px;
+  margin-bottom: 1px;
+  margin-left: 17px;
+  position: relative;
+  width: 37px;
+}
+
+.matching-form-1-1-dogtype-size .icon-user {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.matching-form-1-1-dogtype-size .profile {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 22px;
+}

@@ -1,0 +1,432 @@
+/* screen - community-create-dogcafe-popup-1 */
+
+.community-create-dogcafe-popup-1 {
+  background-color: #ffffff;
+  height: 100vh;
+  margin: 0px;
+  min-height: 640px;
+  min-width: 360px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.community-create-dogcafe-popup-1 .rectangle-46-C61RwL {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 516px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 62px;
+  width: 360px;
+}
+
+.community-create-dogcafe-popup-1 .rectangle-21-C61RwL {
+  --z-index: 1;
+  background-color: #56ccf2;
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 360px;
+}
+
+.community-create-dogcafe-popup-1 .rectangle-45-C61RwL {
+  --z-index: 2;
+  background-color: #56ccf2;
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 578px;
+  width: 360px;
+}
+
+.community-create-dogcafe-popup-1 .x1-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Candal', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+    left: 50px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    opacity: 1;
+    position: absolute;
+    text-align: left;
+    top: 610px;
+    width: 3%;
+}
+
+.community-create-dogcafe-popup-1 .image_black_24dp-1-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/image-black-24dp-1@2x.png);
+  background-size: 100% 100%;
+  height: 40px;
+  left: 10px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 589px;
+  width: 44px;
+}
+
+.community-create-dogcafe-popup-1 .close_black_24dp-1-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/close-black-24dp-1@2x.png);
+  background-size: 100% 100%;
+  height: 39px;
+  left: 14px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 12px;
+  width: 37px;
+}
+
+.community-create-dogcafe-popup-1 .dog-cafe-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 132px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+
+.community-create-dogcafe-popup-1 .rectangle-44-C61RwL {
+  --z-index: 7;
+  background-color: #56ccf2;
+  height: 62px;
+  left: 272px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 88px;
+}
+
+.community-create-dogcafe-popup-1 .submit-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 284px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  width: auto;
+}
+
+.community-create-dogcafe-popup-1 .x-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cabin', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 83px;
+  width: auto;
+}
+
+.community-create-dogcafe-popup-1 .component-30-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  height: 174px;
+  left: 43px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 188px;
+  width: 264px;
+}
+
+.community-create-dogcafe-popup-1 .rectangle-56-02ks1v {
+  --z-index: 0;
+  background-color: #fafafa;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+border: 1px solid;}
+
+.community-create-dogcafe-popup-1 .no-02ks1v {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22.41%;
+  left: 68.18%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 77.01%;
+  width: 12.12%;
+}
+
+.community-create-dogcafe-popup-1 .yes-02ks1v {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22.41%;
+  left: 17.42%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 77.59%;
+  width: 15.15%;
+}
+
+.community-create-dogcafe-popup-1 .are-you-sure-if-you-02ks1v {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 53.45%;
+  left: 10.61%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 13.79%;
+  width: 82.20%;
+}
+/* screen - community-1create-dogcafe */
+
+.community-1create-dogcafe {
+  background-color: #ffffff;
+  height: 100vh;
+  margin: 0px;
+  min-height: 640px;
+  min-width: 360px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.community-1create-dogcafe .rectangle-46-C61RwL {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 516px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 62px;
+  width: 360px;
+}
+
+.community-1create-dogcafe .rectangle-21-C61RwL {
+  --z-index: 1;
+  background-color: #56ccf2;
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 360px;
+}
+
+.community-1create-dogcafe .rectangle-45-C61RwL {
+  --z-index: 2;
+  background-color: #56ccf2;
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 578px;
+  width: 360px;
+}
+
+.community-1create-dogcafe .x1-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Candal', Helvetica;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 610px;
+  width: 3%;
+}
+
+.community-1create-dogcafe .image_black_24dp-1-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/image-black-24dp-1@2x.png);
+  background-size: 100% 100%;
+  height: 40px;
+  left: 10px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 589px;
+  width: 44px;
+}
+
+.community-1create-dogcafe .close_black_24dp-1-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/close-black-24dp-1@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 39px;
+  left: 14px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 12px;
+  width: 37px;
+}
+
+.community-1create-dogcafe .dog-cafe-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 132px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+
+.community-1create-dogcafe .rectangle-44-C61RwL {
+  --z-index: 7;
+  background-color: #56ccf2;
+  height: 62px;
+  left: 272px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 88px;
+}
+
+.community-1create-dogcafe .submit-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Baloo-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 284px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  width: auto;
+}
+
+.community-1create-dogcafe .x-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Cabin', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 83px;
+  width: auto;
+}
